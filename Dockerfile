@@ -33,4 +33,4 @@ WORKDIR /app
 EXPOSE 8125
 
 # Command to run the FastAPI app (which now serves the built frontend)
-CMD ["python", "research/app/api.py"]
+CMD ["python", "research/app/api_render.py"]
