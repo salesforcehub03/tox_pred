@@ -17,7 +17,7 @@ WORKDIR /app
 COPY research/requirements.txt .
 RUN pip install --no-cache-dir -r requirements.txt
 
-# Install Node.js for the frontend
+# Install Node.js for the frontend build
 RUN curl -fsSL https://deb.nodesource.com/setup_18.x | bash - \
     && apt-get install -y nodejs
 
@@ -32,8 +32,5 @@ RUN npm install && npm run build
 WORKDIR /app
 EXPOSE 8125
 
-# Create a startup script for production
-RUN echo '#!/bin/bash\npython research/app/api.py & \ncd research-frontend && npm run preview -- --host 0.0.0.0 --port 5173' > /app/start_prod.sh
-RUN chmod +x /app/start_prod.sh
-
-CMD ["/app/start_prod.sh"]
+# Command to run the FastAPI app (which now serves the built frontend)
+CMD ["python", "research/app/api.py"]
