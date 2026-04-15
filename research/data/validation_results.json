@@ -1,0 +1,112 @@
+[
+  {
+    "drug": "Belinostat",
+    "drug_key": "belinostat",
+    "status": "COMPLETE",
+    "elapsed_sec": 12.7,
+    "resolved_smiles": "C1=CC=C(C=C1)NS(=O)(=O)C2=CC=CC(=C2)C=CC(=O)NO",
+    "resolved_name": "PXD101",
+    "organ_risk": {
+      "liver": {
+        "expected": "High",
+        "predicted": "Moderate",
+        "predicted_pct": 43,
+        "accuracy": 0.5,
+        "verdict": "\ud83d\udfe1 CLOSE"
+      },
+      "lung": {
+        "expected": "Low",
+        "predicted": "Low",
+        "predicted_pct": 18,
+        "accuracy": 1.0,
+        "verdict": "\u2705 EXACT"
+      },
+      "kidney": {
+        "expected": "Low",
+        "predicted": "Low",
+        "predicted_pct": 0,
+        "accuracy": 1.0,
+        "verdict": "\u2705 EXACT"
+      },
+      "heart": {
+        "expected": "Moderate",
+        "predicted": "Low",
+        "predicted_pct": 24,
+        "accuracy": 0.5,
+        "verdict": "\ud83d\udfe1 CLOSE"
+      },
+      "brain": {
+        "expected": "Low",
+        "predicted": "Low",
+        "predicted_pct": 0,
+        "accuracy": 1.0,
+        "verdict": "\u2705 EXACT"
+      },
+      "_aggregate": {
+        "score": 4.0,
+        "max_score": 5,
+        "accuracy_pct": 80.0
+      }
+    },
+    "ae_overlap": {
+      "overlap_pct": 20.0,
+      "matched": [
+        "Thrombocytopenia",
+        "QT prolongation"
+      ],
+      "missed": [
+        "Neutropenia",
+        "Anemia",
+        "Hepatotoxicity",
+        "Nausea",
+        "Vomiting",
+        "Diarrhea",
+        "Fatigue",
+        "Tumor lysis syndrome"
+      ],
+      "total_known": 10,
+      "total_predicted": 4
+    },
+    "structural_alerts": {
+      "expected": [
+        "hydroxamic_acid",
+        "Michael_acceptor",
+        "sulfonamide"
+      ],
+      "detected_count": 3,
+      "found": [
+        "hydroxamic_acid",
+        "Michael_acceptor"
+      ],
+      "missed": [
+        "sulfonamide"
+      ],
+      "sensitivity": 66.7
+    },
+    "deepchem_top3": [],
+    "deepchem_note": "",
+    "adme_gating": {
+      "BBB": 0.3,
+      "Accumulation": 1.0,
+      "Exposure": 1.0,
+      "LogP": 2.01,
+      "TPSA": 95.5
+    },
+    "ae_concordance": {
+      "concordance_pct": 25,
+      "matched": [
+        {
+          "predicted": "Reported Clinical Event: HAEMORRHAGE, THROMBOCYTOPENIA",
+          "faers_confirmed": "HAEMORRHAGE",
+          "faers_count": 3,
+          "organ": "HEMATO",
+          "match_type": "Semantic"
+        }
+      ],
+      "total_predicted": 4,
+      "total_faers": 5
+    },
+    "faers_count": 5,
+    "pubmed_density": 21.28
+  }
+]

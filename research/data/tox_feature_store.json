@@ -1,0 +1,5634 @@
+{
+    "Haloperidol": {
+        "observations": [
+            {
+                "type": "clinical",
+                "sex": "Male",
+                "dose": 0.0,
+                "cmax": 0.0,
+                "auc": 0.0,
+                "t_half": 0.0,
+                "clearance": 0.0,
+                "alt": 0.0,
+                "ast": 0.0,
+                "population": "Healthy",
+                "severity": "nan",
+                "latency": "nan",
+                "ae_flags": {
+                    "hepat": 0,
+                    "renal": 0,
+                    "cardiac": 0,
+                    "pulmonary": 0,
+                    "neuro": 0,
+                    "hemato": 0,
+                    "immune": 0
+                }
+            },
+            {
+                "type": "clinical",
+                "sex": "Female",
+                "dose": 0.0,
+                "cmax": 0.0,
+                "auc": 0.0,
+                "t_half": 0.0,
+                "clearance": 0.0,
+                "alt": 0.0,
+                "ast": 0.0,
+                "population": "Healthy",
+                "severity": "nan",
+                "latency": "nan",
+                "ae_flags": {
+                    "hepat": 0,
+                    "renal": 0,
+                    "cardiac": 0,
+                    "pulmonary": 0,
+                    "neuro": 0,
+                    "hemato": 0,
+                    "immune": 0
+                }
+            },
+            {
+                "type": "clinical",
+                "sex": "Male",
+                "dose": 0.0,
+                "cmax": 0.0,
+                "auc": 0.0,
+                "t_half": 0.0,
+                "clearance": 43.9,
+                "alt": 0.0,
+                "ast": 0.0,
+                "population": "Healthy",
+                "severity": "Moderate",
+                "latency": "Acute",
+                "ae_flags": {
+                    "hepat": 0,
+                    "renal": 0,
+                    "cardiac": 0,
+                    "pulmonary": 0,
+                    "neuro": 0,
+                    "hemato": 0,
+                    "immune": 0
+                }
+            },
+            {
+                "type": "clinical",
+                "sex": "Female",
+                "dose": 0.0,
+                "cmax": 0.0,
+                "auc": 0.0,
+                "t_half": 0.0,
+                "clearance": 43.9,
+                "alt": 0.0,
+                "ast": 0.0,
+                "population": "Healthy",
+                "severity": "Moderate",
+                "latency": "Acute",
+                "ae_flags": {
+                    "hepat": 0,
+                    "renal": 0,
+                    "cardiac": 0,
+                    "pulmonary": 0,
+                    "neuro": 0,
+                    "hemato": 0,
+                    "immune": 0
+                }
+            },
+            {
+                "type": "clinical",
+                "sex": "Male",
+                "dose": 0.0,
+                "cmax": 0.0,
+                "auc": 0.0,
+                "t_half": 0.0,
+                "clearance": 2.0,
+                "alt": 0.0,
+                "ast": 0.0,
+                "population": "Healthy",
+                "severity": "Mild\u2013Moderate",
+                "latency": "Subacute",
+                "ae_flags": {
+                    "hepat": 0,
+                    "renal": 0,
+                    "cardiac": 0,
+                    "pulmonary": 0,
+                    "neuro": 0,
+                    "hemato": 0,
+                    "immune": 0
+                }
+            },
+            {
+                "type": "clinical",
+                "sex": "Female",
+                "dose": 0.0,
+                "cmax": 0.0,
+                "auc": 0.0,
+                "t_half": 0.0,
+                "clearance": 2.0,
+                "alt": 0.0,
+                "ast": 0.0,
+                "population": "Healthy",
+                "severity": "Mild\u2013Moderate",
+                "latency": "Subacute",
+                "ae_flags": {
+                    "hepat": 0,
+                    "renal": 0,
+                    "cardiac": 0,
+                    "pulmonary": 0,
+                    "neuro": 0,
+                    "hemato": 0,
+                    "immune": 0
+                }
+            },
+            {
+                "type": "preclinical",
+                "species": "Dog",
+                "dose": 0.0,
+                "noael": 0.0,
+                "loael": 0.0,
+                "cmax": 0.0,
+                "auc": 0.0,
+                "clinical_signs": {
+                    "hepat": 0,
+                    "renal": 0,
+                    "cardiac": 0,
+                    "pulmonary": 0,
+                    "neuro": 0,
+                    "hemato": 0,
+                    "immune": 0
+                }
+            },
+            {
+                "type": "preclinical",
+                "species": "Dog",
+                "dose": 0.0,
+                "noael": 0.0,
+                "loael": 0.0,
+                "cmax": 0.0,
+                "auc": 0.0,
+                "clinical_signs": {
+                    "hepat": 0,
+                    "renal": 0,
+                    "cardiac": 0,
+                    "pulmonary": 0,
+                    "neuro": 0,
+                    "hemato": 0,
+                    "immune": 0
+                }
+            },
+            {
+                "type": "preclinical",
+                "species": "Rat",
+                "dose": 0.0,
+                "noael": 0.0,
+                "loael": 0.0,
+                "cmax": 0.0,
+                "auc": 0.0,
+                "clinical_signs": {
+                    "hepat": 0,
+                    "renal": 0,
+                    "cardiac": 0,
+                    "pulmonary": 0,
+                    "neuro": 0,
+                    "hemato": 0,
+                    "immune": 0
+                }
+            },
+            {
+                "type": "preclinical",
+                "species": "Rat",
+                "dose": 0.0,
+                "noael": 0.0,
+                "loael": 0.0,
+                "cmax": 0.0,
+                "auc": 0.0,
+                "clinical_signs": {
+                    "hepat": 0,
+                    "renal": 0,
+                    "cardiac": 0,
+                    "pulmonary": 0,
+                    "neuro": 0,
+                    "hemato": 0,
+                    "immune": 0
+                }
+            },
+            {
+                "type": "preclinical",
+                "species": "Rat",
+                "dose": 0.0,
+                "noael": 0.0,
+                "loael": 0.0,
+                "cmax": 0.0,
+                "auc": 0.0,
+                "clinical_signs": {
+                    "hepat": 0,
+                    "renal": 0,
+                    "cardiac": 0,
+                    "pulmonary": 0,
+                    "neuro": 0,
+                    "hemato": 0,
+                    "immune": 0
+                }
+            },
+            {
+                "type": "preclinical",
+                "species": "Dog",
+                "dose": 0.0,
+                "noael": 0.0,
+                "loael": 0.0,
+                "cmax": 0.0,
+                "auc": 0.0,
+                "clinical_signs": {
+                    "hepat": 0,
+                    "renal": 0,
+                    "cardiac": 0,
+                    "pulmonary": 0,
+                    "neuro": 0,
+                    "hemato": 0,
+                    "immune": 0
+                }
+            },
+            {
+                "type": "preclinical",
+                "species": "Rat",
+                "dose": 0.0,
+                "noael": 0.0,
+                "loael": 0.0,
+                "cmax": 0.0,
+                "auc": 0.0,
+                "clinical_signs": {
+                    "hepat": 0,
+                    "renal": 0,
+                    "cardiac": 0,
+                    "pulmonary": 0,
+                    "neuro": 0,
+                    "hemato": 0,
+                    "immune": 0
+                }
+            },
+            {
+                "type": "preclinical",
+                "species": "Dog",
+                "dose": 0.0,
+                "noael": 0.0,
+                "loael": 0.0,
+                "cmax": 0.0,
+                "auc": 0.0,
+                "clinical_signs": {
+                    "hepat": 0,
+                    "renal": 0,
+                    "cardiac": 0,
+                    "pulmonary": 0,
+                    "neuro": 0,
+                    "hemato": 0,
+                    "immune": 0
+                }
+            }
+        ]
+    },
+    "Haloperidol Decanoate": {
+        "observations": [
+            {
+                "type": "clinical",
+                "sex": "Mixed",
+                "dose": 0.0,
+                "cmax": 0.0,
+                "auc": 0.0,
+                "t_half": 0.0,
+                "clearance": 0.0,
+                "alt": 0.0,
+                "ast": 0.0,
+                "population": "Healthy",
+                "severity": "nan",
+                "latency": "nan",
+                "ae_flags": {
+                    "hepat": 0,
+                    "renal": 0,
+                    "cardiac": 0,
+                    "pulmonary": 0,
+                    "neuro": 0,
+                    "hemato": 0,
+                    "immune": 0
+                }
+            },
+            {
+                "type": "clinical",
+                "sex": "Mixed",
+                "dose": 0.0,
+                "cmax": 0.0,
+                "auc": 0.0,
+                "t_half": 0.0,
+                "clearance": 0.0,
+                "alt": 0.0,
+                "ast": 0.0,
+                "population": "Healthy",
+                "severity": "nan",
+                "latency": "nan",
+                "ae_flags": {
+                    "hepat": 0,
+                    "renal": 0,
+                    "cardiac": 0,
+                    "pulmonary": 0,
+                    "neuro": 0,
+                    "hemato": 0,
+                    "immune": 0
+                }
+            },
+            {
+                "type": "clinical",
+                "sex": "Mixed",
+                "dose": 0.0,
+                "cmax": 0.0,
+                "auc": 0.0,
+                "t_half": 0.0,
+                "clearance": 0.0,
+                "alt": 0.0,
+                "ast": 0.0,
+                "population": "Healthy",
+                "severity": "nan",
+                "latency": "nan",
+                "ae_flags": {
+                    "hepat": 0,
+                    "renal": 0,
+                    "cardiac": 0,
+                    "pulmonary": 0,
+                    "neuro": 0,
+                    "hemato": 0,
+                    "immune": 0
+                }
+            },
+            {
+                "type": "clinical",
+                "sex": "Male",
+                "dose": 0.0,
+                "cmax": 0.0,
+                "auc": 0.0,
+                "t_half": 0.0,
+                "clearance": 3.0,
+                "alt": 0.0,
+                "ast": 0.0,
+                "population": "Healthy",
+                "severity": "Mild\u2013moderate",
+                "latency": "Acute\u2013subacute",
+                "ae_flags": {
+                    "hepat": 0,
+                    "renal": 0,
+                    "cardiac": 0,
+                    "pulmonary": 0,
+                    "neuro": 0,
+                    "hemato": 0,
+                    "immune": 0
+                }
+            },
+            {
+                "type": "clinical",
+                "sex": "Female",
+                "dose": 0.0,
+                "cmax": 0.0,
+                "auc": 0.0,
+                "t_half": 0.0,
+                "clearance": 3.0,
+                "alt": 0.0,
+                "ast": 0.0,
+                "population": "Healthy",
+                "severity": "Mild\u2013moderate",
+                "latency": "Acute\u2013subacute",
+                "ae_flags": {
+                    "hepat": 0,
+                    "renal": 0,
+                    "cardiac": 0,
+                    "pulmonary": 0,
+                    "neuro": 0,
+                    "hemato": 0,
+                    "immune": 0
+                }
+            },
+            {
+                "type": "clinical",
+                "sex": "Male",
+                "dose": 0.0,
+                "cmax": 0.0,
+                "auc": 0.0,
+                "t_half": 0.0,
+                "clearance": 3.0,
+                "alt": 0.0,
+                "ast": 0.0,
+                "population": "Healthy",
+                "severity": "Mild\u2013moderate",
+                "latency": "Acute",
+                "ae_flags": {
+                    "hepat": 0,
+                    "renal": 0,
+                    "cardiac": 0,
+                    "pulmonary": 0,
+                    "neuro": 0,
+                    "hemato": 0,
+                    "immune": 0
+                }
+            },
+            {
+                "type": "clinical",
+                "sex": "Female",
+                "dose": 0.0,
+                "cmax": 0.0,
+                "auc": 0.0,
+                "t_half": 0.0,
+                "clearance": 3.0,
+                "alt": 0.0,
+                "ast": 0.0,
+                "population": "Healthy",
+                "severity": "Mild\u2013moderate",
+                "latency": "Acute",
+                "ae_flags": {
+                    "hepat": 0,
+                    "renal": 0,
+                    "cardiac": 0,
+                    "pulmonary": 0,
+                    "neuro": 0,
+                    "hemato": 0,
+                    "immune": 0
+                }
+            },
+            {
+                "type": "clinical",
+                "sex": "Male",
+                "dose": 0.0,
+                "cmax": 0.0,
+                "auc": 0.0,
+                "t_half": 0.0,
+                "clearance": 0.0,
+                "alt": 0.0,
+                "ast": 0.0,
+                "population": "Healthy",
+                "severity": "Moderate\u2013severe",
+                "latency": "Subacute\u2013chronic",
+                "ae_flags": {
+                    "hepat": 0,
+                    "renal": 0,
+                    "cardiac": 0,
+                    "pulmonary": 0,
+                    "neuro": 0,
+                    "hemato": 0,
+                    "immune": 0
+                }
+            },
+            {
+                "type": "clinical",
+                "sex": "Female",
+                "dose": 0.0,
+                "cmax": 0.0,
+                "auc": 0.0,
+                "t_half": 0.0,
+                "clearance": 0.0,
+                "alt": 0.0,
+                "ast": 0.0,
+                "population": "Healthy",
+                "severity": "Moderate\u2013severe",
+                "latency": "Subacute\u2013chronic",
+                "ae_flags": {
+                    "hepat": 0,
+                    "renal": 0,
+                    "cardiac": 0,
+                    "pulmonary": 0,
+                    "neuro": 0,
+                    "hemato": 0,
+                    "immune": 0
+                }
+            }
+        ]
+    },
+    "Naltrexone Hcl": {
+        "observations": [
+            {
+                "type": "clinical",
+                "sex": "Male",
+                "dose": 0.0,
+                "cmax": 0.0,
+                "auc": 0.0,
+                "t_half": 0.0,
+                "clearance": 0.0,
+                "alt": 0.0,
+                "ast": 0.0,
+                "population": "Healthy",
+                "severity": "nan",
+                "latency": "nan",
+                "ae_flags": {
+                    "hepat": 0,
+                    "renal": 0,
+                    "cardiac": 0,
+                    "pulmonary": 0,
+                    "neuro": 0,
+                    "hemato": 0,
+                    "immune": 0
+                }
+            },
+            {
+                "type": "clinical",
+                "sex": "Female",
+                "dose": 0.0,
+                "cmax": 0.0,
+                "auc": 0.0,
+                "t_half": 0.0,
+                "clearance": 0.0,
+                "alt": 0.0,
+                "ast": 0.0,
+                "population": "Healthy",
+                "severity": "nan",
+                "latency": "nan",
+                "ae_flags": {
+                    "hepat": 0,
+                    "renal": 0,
+                    "cardiac": 0,
+                    "pulmonary": 0,
+                    "neuro": 0,
+                    "hemato": 0,
+                    "immune": 0
+                }
+            },
+            {
+                "type": "clinical",
+                "sex": "Male",
+                "dose": 0.0,
+                "cmax": 0.0,
+                "auc": 0.0,
+                "t_half": 0.0,
+                "clearance": 0.0,
+                "alt": 0.0,
+                "ast": 0.0,
+                "population": "Healthy",
+                "severity": "Mild\u2013moderate",
+                "latency": "Acute (minutes to hours)",
+                "ae_flags": {
+                    "hepat": 0,
+                    "renal": 0,
+                    "cardiac": 0,
+                    "pulmonary": 0,
+                    "neuro": 0,
+                    "hemato": 0,
+                    "immune": 0
+                }
+            },
+            {
+                "type": "clinical",
+                "sex": "Female",
+                "dose": 0.0,
+                "cmax": 0.0,
+                "auc": 0.0,
+                "t_half": 0.0,
+                "clearance": 0.0,
+                "alt": 0.0,
+                "ast": 0.0,
+                "population": "Healthy",
+                "severity": "Mild\u2013moderate",
+                "latency": "Acute (minutes to hours)",
+                "ae_flags": {
+                    "hepat": 0,
+                    "renal": 0,
+                    "cardiac": 0,
+                    "pulmonary": 0,
+                    "neuro": 0,
+                    "hemato": 0,
+                    "immune": 0
+                }
+            },
+            {
+                "type": "clinical",
+                "sex": "Male",
+                "dose": 0.0,
+                "cmax": 0.0,
+                "auc": 0.0,
+                "t_half": 0.0,
+                "clearance": 0.8,
+                "alt": 0.0,
+                "ast": 0.0,
+                "population": "Healthy",
+                "severity": "Mild\u2013moderate",
+                "latency": "Acute (minutes to hours)",
+                "ae_flags": {
+                    "hepat": 0,
+                    "renal": 0,
+                    "cardiac": 0,
+                    "pulmonary": 0,
+                    "neuro": 0,
+                    "hemato": 0,
+                    "immune": 0
+                }
+            },
+            {
+                "type": "clinical",
+                "sex": "Female",
+                "dose": 0.0,
+                "cmax": 0.0,
+                "auc": 0.0,
+                "t_half": 0.0,
+                "clearance": 0.8,
+                "alt": 0.0,
+                "ast": 0.0,
+                "population": "Healthy",
+                "severity": "Mild\u2013moderate",
+                "latency": "Acute (minutes to hours)",
+                "ae_flags": {
+                    "hepat": 0,
+                    "renal": 0,
+                    "cardiac": 0,
+                    "pulmonary": 0,
+                    "neuro": 0,
+                    "hemato": 0,
+                    "immune": 0
+                }
+            }
+        ]
+    },
+    "Tramadol Hcl": {
+        "observations": [
+            {
+                "type": "clinical",
+                "sex": "Male",
+                "dose": 0.0,
+                "cmax": 0.0,
+                "auc": 0.0,
+                "t_half": 0.0,
+                "clearance": 0.0,
+                "alt": 0.0,
+                "ast": 0.0,
+                "population": "Healthy",
+                "severity": "nan",
+                "latency": "nan",
+                "ae_flags": {
+                    "hepat": 0,
+                    "renal": 0,
+                    "cardiac": 0,
+                    "pulmonary": 0,
+                    "neuro": 0,
+                    "hemato": 0,
+                    "immune": 0
+                }
+            },
+            {
+                "type": "clinical",
+                "sex": "Female",
+                "dose": 0.0,
+                "cmax": 0.0,
+                "auc": 0.0,
+                "t_half": 0.0,
+                "clearance": 0.0,
+                "alt": 0.0,
+                "ast": 0.0,
+                "population": "Healthy",
+                "severity": "nan",
+                "latency": "nan",
+                "ae_flags": {
+                    "hepat": 0,
+                    "renal": 0,
+                    "cardiac": 0,
+                    "pulmonary": 0,
+                    "neuro": 0,
+                    "hemato": 0,
+                    "immune": 0
+                }
+            },
+            {
+                "type": "clinical",
+                "sex": "Male",
+                "dose": 0.0,
+                "cmax": 0.0,
+                "auc": 0.0,
+                "t_half": 0.0,
+                "clearance": 0.0,
+                "alt": 0.0,
+                "ast": 0.0,
+                "population": "Healthy",
+                "severity": "Moderate",
+                "latency": "Acute",
+                "ae_flags": {
+                    "hepat": 0,
+                    "renal": 0,
+                    "cardiac": 0,
+                    "pulmonary": 0,
+                    "neuro": 0,
+                    "hemato": 0,
+                    "immune": 0
+                }
+            },
+            {
+                "type": "clinical",
+                "sex": "Female",
+                "dose": 0.0,
+                "cmax": 0.0,
+                "auc": 0.0,
+                "t_half": 0.0,
+                "clearance": 0.0,
+                "alt": 0.0,
+                "ast": 0.0,
+                "population": "Healthy",
+                "severity": "Moderate",
+                "latency": "Acute",
+                "ae_flags": {
+                    "hepat": 0,
+                    "renal": 0,
+                    "cardiac": 0,
+                    "pulmonary": 0,
+                    "neuro": 0,
+                    "hemato": 0,
+                    "immune": 0
+                }
+            },
+            {
+                "type": "clinical",
+                "sex": "Male",
+                "dose": 0.0,
+                "cmax": 0.0,
+                "auc": 0.0,
+                "t_half": 0.0,
+                "clearance": 2.0,
+                "alt": 0.0,
+                "ast": 0.0,
+                "population": "Healthy",
+                "severity": "Mild\u2013Moderate",
+                "latency": "Acute",
+                "ae_flags": {
+                    "hepat": 0,
+                    "renal": 0,
+                    "cardiac": 0,
+                    "pulmonary": 0,
+                    "neuro": 0,
+                    "hemato": 0,
+                    "immune": 0
+                }
+            },
+            {
+                "type": "clinical",
+                "sex": "Female",
+                "dose": 0.0,
+                "cmax": 0.0,
+                "auc": 0.0,
+                "t_half": 0.0,
+                "clearance": 2.0,
+                "alt": 0.0,
+                "ast": 0.0,
+                "population": "Healthy",
+                "severity": "Mild\u2013Moderate",
+                "latency": "Acute",
+                "ae_flags": {
+                    "hepat": 0,
+                    "renal": 0,
+                    "cardiac": 0,
+                    "pulmonary": 0,
+                    "neuro": 0,
+                    "hemato": 0,
+                    "immune": 0
+                }
+            }
+        ]
+    },
+    "Methylphenidate Hcl": {
+        "observations": [
+            {
+                "type": "clinical",
+                "sex": "Male",
+                "dose": 0.0,
+                "cmax": 0.0,
+                "auc": 0.0,
+                "t_half": 0.0,
+                "clearance": 0.0,
+                "alt": 0.0,
+                "ast": 0.0,
+                "population": "Healthy",
+                "severity": "nan",
+                "latency": "nan",
+                "ae_flags": {
+                    "hepat": 0,
+                    "renal": 0,
+                    "cardiac": 0,
+                    "pulmonary": 0,
+                    "neuro": 0,
+                    "hemato": 0,
+                    "immune": 0
+                }
+            },
+            {
+                "type": "clinical",
+                "sex": "Female",
+                "dose": 0.0,
+                "cmax": 0.0,
+                "auc": 0.0,
+                "t_half": 0.0,
+                "clearance": 0.0,
+                "alt": 0.0,
+                "ast": 0.0,
+                "population": "Healthy",
+                "severity": "nan",
+                "latency": "nan",
+                "ae_flags": {
+                    "hepat": 0,
+                    "renal": 0,
+                    "cardiac": 0,
+                    "pulmonary": 0,
+                    "neuro": 0,
+                    "hemato": 0,
+                    "immune": 0
+                }
+            },
+            {
+                "type": "clinical",
+                "sex": "Male",
+                "dose": 0.0,
+                "cmax": 0.0,
+                "auc": 0.0,
+                "t_half": 0.0,
+                "clearance": 0.0,
+                "alt": 0.0,
+                "ast": 0.0,
+                "population": "Healthy",
+                "severity": "Mild to moderate",
+                "latency": "Acute (days to weeks)",
+                "ae_flags": {
+                    "hepat": 0,
+                    "renal": 0,
+                    "cardiac": 0,
+                    "pulmonary": 0,
+                    "neuro": 0,
+                    "hemato": 0,
+                    "immune": 0
+                }
+            },
+            {
+                "type": "clinical",
+                "sex": "Female",
+                "dose": 0.0,
+                "cmax": 0.0,
+                "auc": 0.0,
+                "t_half": 0.0,
+                "clearance": 0.0,
+                "alt": 0.0,
+                "ast": 0.0,
+                "population": "Healthy",
+                "severity": "Mild to moderate",
+                "latency": "Acute (days to weeks)",
+                "ae_flags": {
+                    "hepat": 0,
+                    "renal": 0,
+                    "cardiac": 0,
+                    "pulmonary": 0,
+                    "neuro": 0,
+                    "hemato": 0,
+                    "immune": 0
+                }
+            },
+            {
+                "type": "clinical",
+                "sex": "Male",
+                "dose": 0.0,
+                "cmax": 0.0,
+                "auc": 0.0,
+                "t_half": 0.0,
+                "clearance": 0.0,
+                "alt": 0.0,
+                "ast": 0.0,
+                "population": "Healthy",
+                "severity": "Mild",
+                "latency": "Subacute (weeks)",
+                "ae_flags": {
+                    "hepat": 0,
+                    "renal": 0,
+                    "cardiac": 0,
+                    "pulmonary": 0,
+                    "neuro": 0,
+                    "hemato": 0,
+                    "immune": 0
+                }
+            },
+            {
+                "type": "clinical",
+                "sex": "Female",
+                "dose": 0.0,
+                "cmax": 0.0,
+                "auc": 0.0,
+                "t_half": 0.0,
+                "clearance": 0.0,
+                "alt": 0.0,
+                "ast": 0.0,
+                "population": "Healthy",
+                "severity": "Mild",
+                "latency": "Subacute (weeks)",
+                "ae_flags": {
+                    "hepat": 0,
+                    "renal": 0,
+                    "cardiac": 0,
+                    "pulmonary": 0,
+                    "neuro": 0,
+                    "hemato": 0,
+                    "immune": 0
+                }
+            }
+        ]
+    },
+    "Risperidone": {
+        "observations": [
+            {
+                "type": "clinical",
+                "sex": "Male",
+                "dose": 2.0,
+                "cmax": 0.0,
+                "auc": 0.0,
+                "t_half": 0.0,
+                "clearance": 0.0,
+                "alt": 0.0,
+                "ast": 0.0,
+                "population": "Healthy",
+                "severity": "nan",
+                "latency": "nan",
+                "ae_flags": {
+                    "hepat": 0,
+                    "renal": 0,
+                    "cardiac": 0,
+                    "pulmonary": 0,
+                    "neuro": 0,
+                    "hemato": 0,
+                    "immune": 0
+                }
+            },
+            {
+                "type": "clinical",
+                "sex": "Female",
+                "dose": 2.0,
+                "cmax": 0.0,
+                "auc": 0.0,
+                "t_half": 0.0,
+                "clearance": 0.0,
+                "alt": 0.0,
+                "ast": 0.0,
+                "population": "Healthy",
+                "severity": "nan",
+                "latency": "nan",
+                "ae_flags": {
+                    "hepat": 0,
+                    "renal": 0,
+                    "cardiac": 0,
+                    "pulmonary": 0,
+                    "neuro": 0,
+                    "hemato": 0,
+                    "immune": 0
+                }
+            },
+            {
+                "type": "clinical",
+                "sex": "Male",
+                "dose": 6.0,
+                "cmax": 0.0,
+                "auc": 0.0,
+                "t_half": 0.0,
+                "clearance": 0.0,
+                "alt": 0.0,
+                "ast": 0.0,
+                "population": "Healthy",
+                "severity": "Mild",
+                "latency": "Subacute to chronic",
+                "ae_flags": {
+                    "hepat": 0,
+                    "renal": 0,
+                    "cardiac": 0,
+                    "pulmonary": 0,
+                    "neuro": 0,
+                    "hemato": 0,
+                    "immune": 0
+                }
+            },
+            {
+                "type": "clinical",
+                "sex": "Female",
+                "dose": 6.0,
+                "cmax": 0.0,
+                "auc": 0.0,
+                "t_half": 0.0,
+                "clearance": 0.0,
+                "alt": 0.0,
+                "ast": 0.0,
+                "population": "Healthy",
+                "severity": "Mild",
+                "latency": "Subacute to chronic",
+                "ae_flags": {
+                    "hepat": 0,
+                    "renal": 0,
+                    "cardiac": 0,
+                    "pulmonary": 0,
+                    "neuro": 0,
+                    "hemato": 0,
+                    "immune": 0
+                }
+            },
+            {
+                "type": "clinical",
+                "sex": "Male",
+                "dose": 10.0,
+                "cmax": 0.0,
+                "auc": 0.0,
+                "t_half": 0.0,
+                "clearance": 1.0,
+                "alt": 0.0,
+                "ast": 0.0,
+                "population": "Healthy",
+                "severity": "Moderate",
+                "latency": "Acute to chronic",
+                "ae_flags": {
+                    "hepat": 0,
+                    "renal": 0,
+                    "cardiac": 0,
+                    "pulmonary": 0,
+                    "neuro": 0,
+                    "hemato": 0,
+                    "immune": 0
+                }
+            },
+            {
+                "type": "clinical",
+                "sex": "Female",
+                "dose": 10.0,
+                "cmax": 0.0,
+                "auc": 0.0,
+                "t_half": 0.0,
+                "clearance": 1.0,
+                "alt": 0.0,
+                "ast": 0.0,
+                "population": "Healthy",
+                "severity": "Moderate",
+                "latency": "Acute to chronic",
+                "ae_flags": {
+                    "hepat": 0,
+                    "renal": 0,
+                    "cardiac": 0,
+                    "pulmonary": 0,
+                    "neuro": 0,
+                    "hemato": 0,
+                    "immune": 0
+                }
+            },
+            {
+                "type": "clinical",
+                "sex": "Unknown",
+                "dose": 0.0,
+                "cmax": 0.0,
+                "auc": 0.0,
+                "t_half": 0.0,
+                "clearance": 0.0,
+                "alt": 0.0,
+                "ast": 0.0,
+                "population": "Healthy",
+                "severity": "Mild",
+                "latency": "Acute",
+                "ae_flags": {
+                    "hepat": 0,
+                    "renal": 0,
+                    "cardiac": 0,
+                    "pulmonary": 0,
+                    "neuro": 0,
+                    "hemato": 0,
+                    "immune": 0
+                }
+            },
+            {
+                "type": "clinical",
+                "sex": "Unknown",
+                "dose": 0.0,
+                "cmax": 0.0,
+                "auc": 0.0,
+                "t_half": 0.0,
+                "clearance": 0.0,
+                "alt": 0.0,
+                "ast": 0.0,
+                "population": "Healthy",
+                "severity": "Mild",
+                "latency": "Acute",
+                "ae_flags": {
+                    "hepat": 0,
+                    "renal": 0,
+                    "cardiac": 0,
+                    "pulmonary": 0,
+                    "neuro": 0,
+                    "hemato": 0,
+                    "immune": 0
+                }
+            },
+            {
+                "type": "clinical",
+                "sex": "Unknown",
+                "dose": 0.0,
+                "cmax": 0.0,
+                "auc": 0.0,
+                "t_half": 0.0,
+                "clearance": 0.0,
+                "alt": 0.0,
+                "ast": 0.0,
+                "population": "Healthy",
+                "severity": "Mild",
+                "latency": "Acute",
+                "ae_flags": {
+                    "hepat": 0,
+                    "renal": 0,
+                    "cardiac": 0,
+                    "pulmonary": 0,
+                    "neuro": 0,
+                    "hemato": 0,
+                    "immune": 0
+                }
+            },
+            {
+                "type": "preclinical",
+                "species": "Dog",
+                "dose": 0.0,
+                "noael": 0.0,
+                "loael": 0.0,
+                "cmax": 0.0,
+                "auc": 0.0,
+                "clinical_signs": {
+                    "hepat": 0,
+                    "renal": 0,
+                    "cardiac": 0,
+                    "pulmonary": 0,
+                    "neuro": 0,
+                    "hemato": 0,
+                    "immune": 0
+                }
+            },
+            {
+                "type": "preclinical",
+                "species": "Dog",
+                "dose": 0.0,
+                "noael": 0.0,
+                "loael": 0.0,
+                "cmax": 0.0,
+                "auc": 0.0,
+                "clinical_signs": {
+                    "hepat": 0,
+                    "renal": 0,
+                    "cardiac": 0,
+                    "pulmonary": 0,
+                    "neuro": 0,
+                    "hemato": 0,
+                    "immune": 0
+                }
+            },
+            {
+                "type": "preclinical",
+                "species": "Rat",
+                "dose": 0.0,
+                "noael": 0.0,
+                "loael": 0.0,
+                "cmax": 0.0,
+                "auc": 0.0,
+                "clinical_signs": {
+                    "hepat": 0,
+                    "renal": 0,
+                    "cardiac": 0,
+                    "pulmonary": 0,
+                    "neuro": 0,
+                    "hemato": 0,
+                    "immune": 0
+                }
+            },
+            {
+                "type": "preclinical",
+                "species": "Rat",
+                "dose": 0.0,
+                "noael": 0.0,
+                "loael": 0.0,
+                "cmax": 0.0,
+                "auc": 0.0,
+                "clinical_signs": {
+                    "hepat": 0,
+                    "renal": 0,
+                    "cardiac": 0,
+                    "pulmonary": 0,
+                    "neuro": 0,
+                    "hemato": 0,
+                    "immune": 0
+                }
+            },
+            {
+                "type": "preclinical",
+                "species": "Rat",
+                "dose": 0.0,
+                "noael": 0.0,
+                "loael": 0.0,
+                "cmax": 0.0,
+                "auc": 0.0,
+                "clinical_signs": {
+                    "hepat": 0,
+                    "renal": 0,
+                    "cardiac": 0,
+                    "pulmonary": 0,
+                    "neuro": 0,
+                    "hemato": 0,
+                    "immune": 0
+                }
+            },
+            {
+                "type": "preclinical",
+                "species": "Rat",
+                "dose": 0.0,
+                "noael": 0.0,
+                "loael": 0.0,
+                "cmax": 0.0,
+                "auc": 0.0,
+                "clinical_signs": {
+                    "hepat": 0,
+                    "renal": 0,
+                    "cardiac": 0,
+                    "pulmonary": 0,
+                    "neuro": 0,
+                    "hemato": 0,
+                    "immune": 0
+                }
+            },
+            {
+                "type": "preclinical",
+                "species": "Dog",
+                "dose": 0.0,
+                "noael": 0.0,
+                "loael": 0.0,
+                "cmax": 0.0,
+                "auc": 0.0,
+                "clinical_signs": {
+                    "hepat": 0,
+                    "renal": 0,
+                    "cardiac": 0,
+                    "pulmonary": 0,
+                    "neuro": 0,
+                    "hemato": 0,
+                    "immune": 0
+                }
+            },
+            {
+                "type": "preclinical",
+                "species": "Dog",
+                "dose": 0.0,
+                "noael": 0.0,
+                "loael": 0.0,
+                "cmax": 0.0,
+                "auc": 0.0,
+                "clinical_signs": {
+                    "hepat": 0,
+                    "renal": 0,
+                    "cardiac": 0,
+                    "pulmonary": 0,
+                    "neuro": 0,
+                    "hemato": 0,
+                    "immune": 0
+                }
+            },
+            {
+                "type": "preclinical",
+                "species": "Rat",
+                "dose": 0.0,
+                "noael": 0.0,
+                "loael": 0.0,
+                "cmax": 0.0,
+                "auc": 0.0,
+                "clinical_signs": {
+                    "hepat": 0,
+                    "renal": 0,
+                    "cardiac": 0,
+                    "pulmonary": 0,
+                    "neuro": 0,
+                    "hemato": 0,
+                    "immune": 0
+                }
+            },
+            {
+                "type": "preclinical",
+                "species": "Rat",
+                "dose": 0.0,
+                "noael": 0.0,
+                "loael": 0.0,
+                "cmax": 0.0,
+                "auc": 0.0,
+                "clinical_signs": {
+                    "hepat": 0,
+                    "renal": 0,
+                    "cardiac": 0,
+                    "pulmonary": 0,
+                    "neuro": 0,
+                    "hemato": 0,
+                    "immune": 0
+                }
+            },
+            {
+                "type": "preclinical",
+                "species": "Dog",
+                "dose": 0.0,
+                "noael": 0.0,
+                "loael": 0.0,
+                "cmax": 0.0,
+                "auc": 0.0,
+                "clinical_signs": {
+                    "hepat": 0,
+                    "renal": 0,
+                    "cardiac": 0,
+                    "pulmonary": 0,
+                    "neuro": 0,
+                    "hemato": 0,
+                    "immune": 0
+                }
+            },
+            {
+                "type": "preclinical",
+                "species": "Dog",
+                "dose": 0.0,
+                "noael": 0.0,
+                "loael": 0.0,
+                "cmax": 0.0,
+                "auc": 0.0,
+                "clinical_signs": {
+                    "hepat": 0,
+                    "renal": 0,
+                    "cardiac": 0,
+                    "pulmonary": 0,
+                    "neuro": 0,
+                    "hemato": 0,
+                    "immune": 0
+                }
+            },
+            {
+                "type": "preclinical",
+                "species": "Monkey",
+                "dose": 0.0,
+                "noael": 0.0,
+                "loael": 0.0,
+                "cmax": 0.0,
+                "auc": 0.0,
+                "clinical_signs": {
+                    "hepat": 0,
+                    "renal": 0,
+                    "cardiac": 0,
+                    "pulmonary": 0,
+                    "neuro": 0,
+                    "hemato": 0,
+                    "immune": 0
+                }
+            }
+        ]
+    },
+    "Citalopram Hbr": {
+        "observations": [
+            {
+                "type": "clinical",
+                "sex": "M/F",
+                "dose": 20.0,
+                "cmax": 0.0,
+                "auc": 0.0,
+                "t_half": 0.0,
+                "clearance": 0.0,
+                "alt": 0.0,
+                "ast": 0.0,
+                "population": "Healthy",
+                "severity": "nan",
+                "latency": "nan",
+                "ae_flags": {
+                    "hepat": 0,
+                    "renal": 0,
+                    "cardiac": 0,
+                    "pulmonary": 0,
+                    "neuro": 0,
+                    "hemato": 0,
+                    "immune": 0
+                }
+            },
+            {
+                "type": "clinical",
+                "sex": "Female",
+                "dose": 20.0,
+                "cmax": 0.0,
+                "auc": 0.0,
+                "t_half": 0.0,
+                "clearance": 0.0,
+                "alt": 0.0,
+                "ast": 0.0,
+                "population": "Healthy",
+                "severity": "nan",
+                "latency": "nan",
+                "ae_flags": {
+                    "hepat": 0,
+                    "renal": 0,
+                    "cardiac": 0,
+                    "pulmonary": 0,
+                    "neuro": 0,
+                    "hemato": 0,
+                    "immune": 0
+                }
+            },
+            {
+                "type": "clinical",
+                "sex": "Male",
+                "dose": 20.0,
+                "cmax": 0.0,
+                "auc": 0.0,
+                "t_half": 0.0,
+                "clearance": 0.0,
+                "alt": 0.0,
+                "ast": 0.0,
+                "population": "Healthy",
+                "severity": "nan",
+                "latency": "nan",
+                "ae_flags": {
+                    "hepat": 0,
+                    "renal": 0,
+                    "cardiac": 0,
+                    "pulmonary": 0,
+                    "neuro": 0,
+                    "hemato": 0,
+                    "immune": 0
+                }
+            },
+            {
+                "type": "clinical",
+                "sex": "Male",
+                "dose": 10.0,
+                "cmax": 0.0,
+                "auc": 0.0,
+                "t_half": 0.0,
+                "clearance": 2.0,
+                "alt": 0.0,
+                "ast": 0.0,
+                "population": "Healthy",
+                "severity": "Mild to moderate",
+                "latency": "Subacute to chronic",
+                "ae_flags": {
+                    "hepat": 0,
+                    "renal": 0,
+                    "cardiac": 0,
+                    "pulmonary": 0,
+                    "neuro": 0,
+                    "hemato": 0,
+                    "immune": 0
+                }
+            },
+            {
+                "type": "clinical",
+                "sex": "Female",
+                "dose": 10.0,
+                "cmax": 0.0,
+                "auc": 0.0,
+                "t_half": 0.0,
+                "clearance": 2.0,
+                "alt": 0.0,
+                "ast": 0.0,
+                "population": "Healthy",
+                "severity": "Mild to moderate",
+                "latency": "Subacute to chronic",
+                "ae_flags": {
+                    "hepat": 0,
+                    "renal": 0,
+                    "cardiac": 0,
+                    "pulmonary": 0,
+                    "neuro": 0,
+                    "hemato": 0,
+                    "immune": 0
+                }
+            },
+            {
+                "type": "clinical",
+                "sex": "Male",
+                "dose": 50.0,
+                "cmax": 0.0,
+                "auc": 0.0,
+                "t_half": 0.0,
+                "clearance": 2.0,
+                "alt": 0.0,
+                "ast": 0.0,
+                "population": "Healthy",
+                "severity": "Mild to moderate",
+                "latency": "Subacute to chronic",
+                "ae_flags": {
+                    "hepat": 0,
+                    "renal": 0,
+                    "cardiac": 0,
+                    "pulmonary": 0,
+                    "neuro": 0,
+                    "hemato": 0,
+                    "immune": 0
+                }
+            },
+            {
+                "type": "clinical",
+                "sex": "Female",
+                "dose": 50.0,
+                "cmax": 0.0,
+                "auc": 0.0,
+                "t_half": 0.0,
+                "clearance": 2.0,
+                "alt": 0.0,
+                "ast": 0.0,
+                "population": "Healthy",
+                "severity": "Mild to moderate",
+                "latency": "Subacute to chronic",
+                "ae_flags": {
+                    "hepat": 0,
+                    "renal": 0,
+                    "cardiac": 0,
+                    "pulmonary": 0,
+                    "neuro": 0,
+                    "hemato": 0,
+                    "immune": 0
+                }
+            }
+        ]
+    },
+    "Topiramate": {
+        "observations": [
+            {
+                "type": "clinical",
+                "sex": "Male",
+                "dose": 100.0,
+                "cmax": 0.0,
+                "auc": 0.0,
+                "t_half": 0.0,
+                "clearance": 0.0,
+                "alt": 0.0,
+                "ast": 0.0,
+                "population": "Healthy",
+                "severity": "nan",
+                "latency": "nan",
+                "ae_flags": {
+                    "hepat": 0,
+                    "renal": 0,
+                    "cardiac": 0,
+                    "pulmonary": 0,
+                    "neuro": 0,
+                    "hemato": 0,
+                    "immune": 0
+                }
+            },
+            {
+                "type": "clinical",
+                "sex": "Female",
+                "dose": 100.0,
+                "cmax": 0.0,
+                "auc": 0.0,
+                "t_half": 0.0,
+                "clearance": 0.0,
+                "alt": 0.0,
+                "ast": 0.0,
+                "population": "Healthy",
+                "severity": "nan",
+                "latency": "nan",
+                "ae_flags": {
+                    "hepat": 0,
+                    "renal": 0,
+                    "cardiac": 0,
+                    "pulmonary": 0,
+                    "neuro": 0,
+                    "hemato": 0,
+                    "immune": 0
+                }
+            },
+            {
+                "type": "clinical",
+                "sex": "Male",
+                "dose": 400.0,
+                "cmax": 0.0,
+                "auc": 0.0,
+                "t_half": 0.0,
+                "clearance": 0.0,
+                "alt": 0.0,
+                "ast": 0.0,
+                "population": "Healthy",
+                "severity": "Moderate",
+                "latency": "Subacute to chronic",
+                "ae_flags": {
+                    "hepat": 0,
+                    "renal": 0,
+                    "cardiac": 0,
+                    "pulmonary": 0,
+                    "neuro": 0,
+                    "hemato": 0,
+                    "immune": 0
+                }
+            },
+            {
+                "type": "clinical",
+                "sex": "Female",
+                "dose": 400.0,
+                "cmax": 0.0,
+                "auc": 0.0,
+                "t_half": 0.0,
+                "clearance": 0.0,
+                "alt": 0.0,
+                "ast": 0.0,
+                "population": "Healthy",
+                "severity": "Moderate",
+                "latency": "Subacute to chronic",
+                "ae_flags": {
+                    "hepat": 0,
+                    "renal": 0,
+                    "cardiac": 0,
+                    "pulmonary": 0,
+                    "neuro": 0,
+                    "hemato": 0,
+                    "immune": 0
+                }
+            },
+            {
+                "type": "clinical",
+                "sex": "Male",
+                "dose": 60.0,
+                "cmax": 0.0,
+                "auc": 0.0,
+                "t_half": 0.0,
+                "clearance": 0.0,
+                "alt": 0.0,
+                "ast": 0.0,
+                "population": "Healthy",
+                "severity": "Severe",
+                "latency": "Acute to subacute",
+                "ae_flags": {
+                    "hepat": 0,
+                    "renal": 0,
+                    "cardiac": 0,
+                    "pulmonary": 0,
+                    "neuro": 0,
+                    "hemato": 0,
+                    "immune": 0
+                }
+            },
+            {
+                "type": "clinical",
+                "sex": "Female",
+                "dose": 60.0,
+                "cmax": 0.0,
+                "auc": 0.0,
+                "t_half": 0.0,
+                "clearance": 0.0,
+                "alt": 0.0,
+                "ast": 0.0,
+                "population": "Healthy",
+                "severity": "Severe",
+                "latency": "Acute to subacute",
+                "ae_flags": {
+                    "hepat": 0,
+                    "renal": 0,
+                    "cardiac": 0,
+                    "pulmonary": 0,
+                    "neuro": 0,
+                    "hemato": 0,
+                    "immune": 0
+                }
+            },
+            {
+                "type": "preclinical",
+                "species": "Dog",
+                "dose": 0.0,
+                "noael": 0.0,
+                "loael": 0.0,
+                "cmax": 0.0,
+                "auc": 0.0,
+                "clinical_signs": {
+                    "hepat": 0,
+                    "renal": 0,
+                    "cardiac": 0,
+                    "pulmonary": 0,
+                    "neuro": 0,
+                    "hemato": 0,
+                    "immune": 0
+                }
+            },
+            {
+                "type": "preclinical",
+                "species": "Dog",
+                "dose": 0.0,
+                "noael": 0.0,
+                "loael": 0.0,
+                "cmax": 0.0,
+                "auc": 0.0,
+                "clinical_signs": {
+                    "hepat": 0,
+                    "renal": 0,
+                    "cardiac": 0,
+                    "pulmonary": 0,
+                    "neuro": 0,
+                    "hemato": 0,
+                    "immune": 0
+                }
+            },
+            {
+                "type": "preclinical",
+                "species": "Rat",
+                "dose": 0.0,
+                "noael": 0.0,
+                "loael": 0.0,
+                "cmax": 0.0,
+                "auc": 0.0,
+                "clinical_signs": {
+                    "hepat": 0,
+                    "renal": 0,
+                    "cardiac": 0,
+                    "pulmonary": 0,
+                    "neuro": 0,
+                    "hemato": 0,
+                    "immune": 0
+                }
+            },
+            {
+                "type": "preclinical",
+                "species": "Rat",
+                "dose": 0.0,
+                "noael": 0.0,
+                "loael": 0.0,
+                "cmax": 0.0,
+                "auc": 0.0,
+                "clinical_signs": {
+                    "hepat": 0,
+                    "renal": 0,
+                    "cardiac": 0,
+                    "pulmonary": 0,
+                    "neuro": 0,
+                    "hemato": 0,
+                    "immune": 0
+                }
+            },
+            {
+                "type": "preclinical",
+                "species": "Rat",
+                "dose": 0.0,
+                "noael": 0.0,
+                "loael": 0.0,
+                "cmax": 0.0,
+                "auc": 0.0,
+                "clinical_signs": {
+                    "hepat": 0,
+                    "renal": 0,
+                    "cardiac": 0,
+                    "pulmonary": 0,
+                    "neuro": 0,
+                    "hemato": 0,
+                    "immune": 0
+                }
+            },
+            {
+                "type": "preclinical",
+                "species": "Rat",
+                "dose": 0.0,
+                "noael": 0.0,
+                "loael": 0.0,
+                "cmax": 0.0,
+                "auc": 0.0,
+                "clinical_signs": {
+                    "hepat": 0,
+                    "renal": 0,
+                    "cardiac": 0,
+                    "pulmonary": 0,
+                    "neuro": 0,
+                    "hemato": 0,
+                    "immune": 0
+                }
+            },
+            {
+                "type": "preclinical",
+                "species": "Dog",
+                "dose": 0.0,
+                "noael": 0.0,
+                "loael": 0.0,
+                "cmax": 0.0,
+                "auc": 0.0,
+                "clinical_signs": {
+                    "hepat": 0,
+                    "renal": 0,
+                    "cardiac": 0,
+                    "pulmonary": 0,
+                    "neuro": 0,
+                    "hemato": 0,
+                    "immune": 0
+                }
+            },
+            {
+                "type": "preclinical",
+                "species": "Dog",
+                "dose": 0.0,
+                "noael": 0.0,
+                "loael": 0.0,
+                "cmax": 0.0,
+                "auc": 0.0,
+                "clinical_signs": {
+                    "hepat": 0,
+                    "renal": 0,
+                    "cardiac": 0,
+                    "pulmonary": 0,
+                    "neuro": 0,
+                    "hemato": 0,
+                    "immune": 0
+                }
+            },
+            {
+                "type": "preclinical",
+                "species": "Monkey",
+                "dose": 0.0,
+                "noael": 0.0,
+                "loael": 0.0,
+                "cmax": 0.0,
+                "auc": 0.0,
+                "clinical_signs": {
+                    "hepat": 0,
+                    "renal": 0,
+                    "cardiac": 0,
+                    "pulmonary": 0,
+                    "neuro": 0,
+                    "hemato": 0,
+                    "immune": 0
+                }
+            },
+            {
+                "type": "preclinical",
+                "species": "Mouse",
+                "dose": 0.0,
+                "noael": 0.0,
+                "loael": 0.0,
+                "cmax": 0.0,
+                "auc": 0.0,
+                "clinical_signs": {
+                    "hepat": 0,
+                    "renal": 0,
+                    "cardiac": 0,
+                    "pulmonary": 0,
+                    "neuro": 0,
+                    "hemato": 0,
+                    "immune": 0
+                }
+            },
+            {
+                "type": "preclinical",
+                "species": "Rat",
+                "dose": 0.0,
+                "noael": 0.0,
+                "loael": 0.0,
+                "cmax": 0.0,
+                "auc": 0.0,
+                "clinical_signs": {
+                    "hepat": 0,
+                    "renal": 0,
+                    "cardiac": 0,
+                    "pulmonary": 0,
+                    "neuro": 0,
+                    "hemato": 0,
+                    "immune": 0
+                }
+            },
+            {
+                "type": "preclinical",
+                "species": "Rat",
+                "dose": 0.0,
+                "noael": 0.0,
+                "loael": 0.0,
+                "cmax": 0.0,
+                "auc": 0.0,
+                "clinical_signs": {
+                    "hepat": 0,
+                    "renal": 0,
+                    "cardiac": 0,
+                    "pulmonary": 0,
+                    "neuro": 0,
+                    "hemato": 0,
+                    "immune": 0
+                }
+            },
+            {
+                "type": "preclinical",
+                "species": "Dog",
+                "dose": 0.0,
+                "noael": 0.0,
+                "loael": 0.0,
+                "cmax": 0.0,
+                "auc": 0.0,
+                "clinical_signs": {
+                    "hepat": 0,
+                    "renal": 0,
+                    "cardiac": 0,
+                    "pulmonary": 0,
+                    "neuro": 0,
+                    "hemato": 0,
+                    "immune": 0
+                }
+            },
+            {
+                "type": "preclinical",
+                "species": "Dog",
+                "dose": 0.0,
+                "noael": 0.0,
+                "loael": 0.0,
+                "cmax": 0.0,
+                "auc": 0.0,
+                "clinical_signs": {
+                    "hepat": 0,
+                    "renal": 0,
+                    "cardiac": 0,
+                    "pulmonary": 0,
+                    "neuro": 0,
+                    "hemato": 0,
+                    "immune": 0
+                }
+            },
+            {
+                "type": "preclinical",
+                "species": "Monkey",
+                "dose": 0.0,
+                "noael": 0.0,
+                "loael": 0.0,
+                "cmax": 0.0,
+                "auc": 0.0,
+                "clinical_signs": {
+                    "hepat": 0,
+                    "renal": 0,
+                    "cardiac": 0,
+                    "pulmonary": 0,
+                    "neuro": 0,
+                    "hemato": 0,
+                    "immune": 0
+                }
+            },
+            {
+                "type": "preclinical",
+                "species": "Mouse",
+                "dose": 0.0,
+                "noael": 0.0,
+                "loael": 0.0,
+                "cmax": 0.0,
+                "auc": 0.0,
+                "clinical_signs": {
+                    "hepat": 0,
+                    "renal": 0,
+                    "cardiac": 0,
+                    "pulmonary": 0,
+                    "neuro": 0,
+                    "hemato": 0,
+                    "immune": 0
+                }
+            }
+        ]
+    },
+    "Galantamine Hbr": {
+        "observations": [
+            {
+                "type": "clinical",
+                "sex": "Male",
+                "dose": 0.0,
+                "cmax": 0.0,
+                "auc": 0.0,
+                "t_half": 0.0,
+                "clearance": 0.0,
+                "alt": 0.0,
+                "ast": 0.0,
+                "population": "Healthy",
+                "severity": "Mild",
+                "latency": "Acute",
+                "ae_flags": {
+                    "hepat": 0,
+                    "renal": 0,
+                    "cardiac": 0,
+                    "pulmonary": 0,
+                    "neuro": 0,
+                    "hemato": 0,
+                    "immune": 0
+                }
+            },
+            {
+                "type": "clinical",
+                "sex": "Female",
+                "dose": 0.0,
+                "cmax": 0.0,
+                "auc": 0.0,
+                "t_half": 0.0,
+                "clearance": 0.0,
+                "alt": 0.0,
+                "ast": 0.0,
+                "population": "Healthy",
+                "severity": "Mild",
+                "latency": "Acute",
+                "ae_flags": {
+                    "hepat": 0,
+                    "renal": 0,
+                    "cardiac": 0,
+                    "pulmonary": 0,
+                    "neuro": 0,
+                    "hemato": 0,
+                    "immune": 0
+                }
+            },
+            {
+                "type": "clinical",
+                "sex": "Male",
+                "dose": 0.0,
+                "cmax": 0.0,
+                "auc": 0.0,
+                "t_half": 0.0,
+                "clearance": 0.0,
+                "alt": 0.0,
+                "ast": 0.0,
+                "population": "Healthy",
+                "severity": "Mild",
+                "latency": "Acute",
+                "ae_flags": {
+                    "hepat": 0,
+                    "renal": 0,
+                    "cardiac": 0,
+                    "pulmonary": 0,
+                    "neuro": 0,
+                    "hemato": 0,
+                    "immune": 0
+                }
+            },
+            {
+                "type": "clinical",
+                "sex": "Female",
+                "dose": 0.0,
+                "cmax": 0.0,
+                "auc": 0.0,
+                "t_half": 0.0,
+                "clearance": 0.0,
+                "alt": 0.0,
+                "ast": 0.0,
+                "population": "Healthy",
+                "severity": "Mild",
+                "latency": "Acute",
+                "ae_flags": {
+                    "hepat": 0,
+                    "renal": 0,
+                    "cardiac": 0,
+                    "pulmonary": 0,
+                    "neuro": 0,
+                    "hemato": 0,
+                    "immune": 0
+                }
+            },
+            {
+                "type": "clinical",
+                "sex": "Male",
+                "dose": 0.0,
+                "cmax": 0.0,
+                "auc": 0.0,
+                "t_half": 0.0,
+                "clearance": 0.0,
+                "alt": 0.0,
+                "ast": 0.0,
+                "population": "Healthy",
+                "severity": "Mild",
+                "latency": "Acute",
+                "ae_flags": {
+                    "hepat": 0,
+                    "renal": 0,
+                    "cardiac": 0,
+                    "pulmonary": 0,
+                    "neuro": 0,
+                    "hemato": 0,
+                    "immune": 0
+                }
+            },
+            {
+                "type": "clinical",
+                "sex": "Female",
+                "dose": 0.0,
+                "cmax": 0.0,
+                "auc": 0.0,
+                "t_half": 0.0,
+                "clearance": 0.0,
+                "alt": 0.0,
+                "ast": 0.0,
+                "population": "Healthy",
+                "severity": "Mild",
+                "latency": "Acute",
+                "ae_flags": {
+                    "hepat": 0,
+                    "renal": 0,
+                    "cardiac": 0,
+                    "pulmonary": 0,
+                    "neuro": 0,
+                    "hemato": 0,
+                    "immune": 0
+                }
+            }
+        ]
+    },
+    "Paliperidone": {
+        "observations": [
+            {
+                "type": "clinical",
+                "sex": "Unknown",
+                "dose": 0.0,
+                "cmax": 0.0,
+                "auc": 0.0,
+                "t_half": 0.0,
+                "clearance": 0.0,
+                "alt": 0.0,
+                "ast": 0.0,
+                "population": "Healthy",
+                "severity": "Mild",
+                "latency": "Acute",
+                "ae_flags": {
+                    "hepat": 0,
+                    "renal": 0,
+                    "cardiac": 0,
+                    "pulmonary": 0,
+                    "neuro": 0,
+                    "hemato": 0,
+                    "immune": 0
+                }
+            },
+            {
+                "type": "clinical",
+                "sex": "Unknown",
+                "dose": 0.0,
+                "cmax": 0.0,
+                "auc": 0.0,
+                "t_half": 0.0,
+                "clearance": 0.0,
+                "alt": 0.0,
+                "ast": 0.0,
+                "population": "Healthy",
+                "severity": "Mild",
+                "latency": "Acute",
+                "ae_flags": {
+                    "hepat": 0,
+                    "renal": 0,
+                    "cardiac": 0,
+                    "pulmonary": 0,
+                    "neuro": 0,
+                    "hemato": 0,
+                    "immune": 0
+                }
+            },
+            {
+                "type": "preclinical",
+                "species": "Rat (SD)",
+                "dose": 0.0,
+                "noael": 0.0,
+                "loael": 0.0,
+                "cmax": 0.0,
+                "auc": 0.0,
+                "clinical_signs": {
+                    "hepat": 0,
+                    "renal": 0,
+                    "cardiac": 0,
+                    "pulmonary": 0,
+                    "neuro": 0,
+                    "hemato": 0,
+                    "immune": 0
+                }
+            },
+            {
+                "type": "preclinical",
+                "species": "Rat (SD)",
+                "dose": 0.0,
+                "noael": 0.0,
+                "loael": 0.0,
+                "cmax": 0.0,
+                "auc": 0.0,
+                "clinical_signs": {
+                    "hepat": 0,
+                    "renal": 0,
+                    "cardiac": 0,
+                    "pulmonary": 0,
+                    "neuro": 0,
+                    "hemato": 0,
+                    "immune": 0
+                }
+            },
+            {
+                "type": "preclinical",
+                "species": "Rat",
+                "dose": 0.0,
+                "noael": 0.0,
+                "loael": 0.0,
+                "cmax": 0.0,
+                "auc": 0.0,
+                "clinical_signs": {
+                    "hepat": 0,
+                    "renal": 0,
+                    "cardiac": 0,
+                    "pulmonary": 0,
+                    "neuro": 0,
+                    "hemato": 0,
+                    "immune": 0
+                }
+            },
+            {
+                "type": "preclinical",
+                "species": "Rat",
+                "dose": 0.0,
+                "noael": 0.0,
+                "loael": 0.0,
+                "cmax": 0.0,
+                "auc": 0.0,
+                "clinical_signs": {
+                    "hepat": 0,
+                    "renal": 0,
+                    "cardiac": 0,
+                    "pulmonary": 0,
+                    "neuro": 0,
+                    "hemato": 0,
+                    "immune": 0
+                }
+            },
+            {
+                "type": "preclinical",
+                "species": "Dog",
+                "dose": 0.0,
+                "noael": 0.0,
+                "loael": 0.0,
+                "cmax": 0.0,
+                "auc": 0.0,
+                "clinical_signs": {
+                    "hepat": 0,
+                    "renal": 0,
+                    "cardiac": 0,
+                    "pulmonary": 0,
+                    "neuro": 0,
+                    "hemato": 0,
+                    "immune": 0
+                }
+            },
+            {
+                "type": "preclinical",
+                "species": "Rat",
+                "dose": 0.0,
+                "noael": 0.0,
+                "loael": 0.0,
+                "cmax": 0.0,
+                "auc": 0.0,
+                "clinical_signs": {
+                    "hepat": 0,
+                    "renal": 0,
+                    "cardiac": 0,
+                    "pulmonary": 0,
+                    "neuro": 0,
+                    "hemato": 0,
+                    "immune": 0
+                }
+            },
+            {
+                "type": "preclinical",
+                "species": "Rat",
+                "dose": 0.0,
+                "noael": 0.0,
+                "loael": 0.0,
+                "cmax": 0.0,
+                "auc": 0.0,
+                "clinical_signs": {
+                    "hepat": 0,
+                    "renal": 0,
+                    "cardiac": 0,
+                    "pulmonary": 0,
+                    "neuro": 0,
+                    "hemato": 0,
+                    "immune": 0
+                }
+            },
+            {
+                "type": "preclinical",
+                "species": "Dog",
+                "dose": 0.0,
+                "noael": 0.0,
+                "loael": 0.0,
+                "cmax": 0.0,
+                "auc": 0.0,
+                "clinical_signs": {
+                    "hepat": 0,
+                    "renal": 0,
+                    "cardiac": 0,
+                    "pulmonary": 0,
+                    "neuro": 0,
+                    "hemato": 0,
+                    "immune": 0
+                }
+            },
+            {
+                "type": "preclinical",
+                "species": "Dog",
+                "dose": 0.0,
+                "noael": 0.0,
+                "loael": 0.0,
+                "cmax": 0.0,
+                "auc": 0.0,
+                "clinical_signs": {
+                    "hepat": 0,
+                    "renal": 0,
+                    "cardiac": 0,
+                    "pulmonary": 0,
+                    "neuro": 0,
+                    "hemato": 0,
+                    "immune": 0
+                }
+            }
+        ]
+    },
+    "Iloperidone": {
+        "observations": [
+            {
+                "type": "clinical",
+                "sex": "Unknown",
+                "dose": 0.0,
+                "cmax": 0.0,
+                "auc": 0.0,
+                "t_half": 0.0,
+                "clearance": 0.0,
+                "alt": 0.0,
+                "ast": 0.0,
+                "population": "Healthy",
+                "severity": "Mild",
+                "latency": "Acute",
+                "ae_flags": {
+                    "hepat": 0,
+                    "renal": 0,
+                    "cardiac": 0,
+                    "pulmonary": 0,
+                    "neuro": 0,
+                    "hemato": 0,
+                    "immune": 0
+                }
+            },
+            {
+                "type": "clinical",
+                "sex": "Unknown",
+                "dose": 0.0,
+                "cmax": 0.0,
+                "auc": 0.0,
+                "t_half": 0.0,
+                "clearance": 0.0,
+                "alt": 0.0,
+                "ast": 0.0,
+                "population": "Healthy",
+                "severity": "Mild",
+                "latency": "Acute",
+                "ae_flags": {
+                    "hepat": 0,
+                    "renal": 0,
+                    "cardiac": 0,
+                    "pulmonary": 0,
+                    "neuro": 0,
+                    "hemato": 0,
+                    "immune": 0
+                }
+            },
+            {
+                "type": "clinical",
+                "sex": "Unknown",
+                "dose": 0.0,
+                "cmax": 0.0,
+                "auc": 0.0,
+                "t_half": 0.0,
+                "clearance": 0.0,
+                "alt": 0.0,
+                "ast": 0.0,
+                "population": "Healthy",
+                "severity": "Mild",
+                "latency": "Acute",
+                "ae_flags": {
+                    "hepat": 0,
+                    "renal": 0,
+                    "cardiac": 0,
+                    "pulmonary": 0,
+                    "neuro": 0,
+                    "hemato": 0,
+                    "immune": 0
+                }
+            },
+            {
+                "type": "clinical",
+                "sex": "Unknown",
+                "dose": 0.0,
+                "cmax": 0.0,
+                "auc": 0.0,
+                "t_half": 0.0,
+                "clearance": 0.0,
+                "alt": 0.0,
+                "ast": 0.0,
+                "population": "Healthy",
+                "severity": "Mild",
+                "latency": "Acute",
+                "ae_flags": {
+                    "hepat": 0,
+                    "renal": 0,
+                    "cardiac": 0,
+                    "pulmonary": 0,
+                    "neuro": 0,
+                    "hemato": 0,
+                    "immune": 0
+                }
+            }
+        ]
+    },
+    "Paliperidone_Palmitate": {
+        "observations": [
+            {
+                "type": "clinical",
+                "sex": "F",
+                "dose": 0.0,
+                "cmax": 0.0,
+                "auc": 0.0,
+                "t_half": 0.0,
+                "clearance": 0.0,
+                "alt": 0.0,
+                "ast": 0.0,
+                "population": "Healthy",
+                "severity": "Mild",
+                "latency": "Acute",
+                "ae_flags": {
+                    "hepat": 0,
+                    "renal": 0,
+                    "cardiac": 0,
+                    "pulmonary": 0,
+                    "neuro": 0,
+                    "hemato": 0,
+                    "immune": 0
+                }
+            },
+            {
+                "type": "clinical",
+                "sex": "M",
+                "dose": 0.0,
+                "cmax": 0.0,
+                "auc": 0.0,
+                "t_half": 0.0,
+                "clearance": 0.0,
+                "alt": 0.0,
+                "ast": 0.0,
+                "population": "Healthy",
+                "severity": "Mild",
+                "latency": "Acute",
+                "ae_flags": {
+                    "hepat": 0,
+                    "renal": 0,
+                    "cardiac": 0,
+                    "pulmonary": 0,
+                    "neuro": 0,
+                    "hemato": 0,
+                    "immune": 0
+                }
+            },
+            {
+                "type": "preclinical",
+                "species": "Rabbit",
+                "dose": 0.0,
+                "noael": 0.0,
+                "loael": 0.0,
+                "cmax": 0.0,
+                "auc": 0.0,
+                "clinical_signs": {
+                    "hepat": 0,
+                    "renal": 0,
+                    "cardiac": 0,
+                    "pulmonary": 0,
+                    "neuro": 0,
+                    "hemato": 0,
+                    "immune": 0
+                }
+            },
+            {
+                "type": "preclinical",
+                "species": "Rat",
+                "dose": 0.0,
+                "noael": 0.0,
+                "loael": 0.0,
+                "cmax": 0.0,
+                "auc": 0.0,
+                "clinical_signs": {
+                    "hepat": 0,
+                    "renal": 0,
+                    "cardiac": 0,
+                    "pulmonary": 0,
+                    "neuro": 0,
+                    "hemato": 0,
+                    "immune": 0
+                }
+            },
+            {
+                "type": "preclinical",
+                "species": "Rat",
+                "dose": 0.0,
+                "noael": 0.0,
+                "loael": 0.0,
+                "cmax": 0.0,
+                "auc": 0.0,
+                "clinical_signs": {
+                    "hepat": 0,
+                    "renal": 0,
+                    "cardiac": 0,
+                    "pulmonary": 0,
+                    "neuro": 0,
+                    "hemato": 0,
+                    "immune": 0
+                }
+            },
+            {
+                "type": "preclinical",
+                "species": "Dog",
+                "dose": 0.0,
+                "noael": 0.0,
+                "loael": 0.0,
+                "cmax": 0.0,
+                "auc": 0.0,
+                "clinical_signs": {
+                    "hepat": 0,
+                    "renal": 0,
+                    "cardiac": 0,
+                    "pulmonary": 0,
+                    "neuro": 0,
+                    "hemato": 0,
+                    "immune": 0
+                }
+            },
+            {
+                "type": "preclinical",
+                "species": "Dog",
+                "dose": 0.0,
+                "noael": 0.0,
+                "loael": 0.0,
+                "cmax": 0.0,
+                "auc": 0.0,
+                "clinical_signs": {
+                    "hepat": 0,
+                    "renal": 0,
+                    "cardiac": 0,
+                    "pulmonary": 0,
+                    "neuro": 0,
+                    "hemato": 0,
+                    "immune": 0
+                }
+            },
+            {
+                "type": "preclinical",
+                "species": "Dog",
+                "dose": 0.0,
+                "noael": 0.0,
+                "loael": 0.0,
+                "cmax": 0.0,
+                "auc": 0.0,
+                "clinical_signs": {
+                    "hepat": 0,
+                    "renal": 0,
+                    "cardiac": 0,
+                    "pulmonary": 0,
+                    "neuro": 0,
+                    "hemato": 0,
+                    "immune": 0
+                }
+            },
+            {
+                "type": "preclinical",
+                "species": "Dog",
+                "dose": 0.0,
+                "noael": 0.0,
+                "loael": 0.0,
+                "cmax": 0.0,
+                "auc": 0.0,
+                "clinical_signs": {
+                    "hepat": 0,
+                    "renal": 0,
+                    "cardiac": 0,
+                    "pulmonary": 0,
+                    "neuro": 0,
+                    "hemato": 0,
+                    "immune": 0
+                }
+            },
+            {
+                "type": "preclinical",
+                "species": "Dog",
+                "dose": 0.0,
+                "noael": 0.0,
+                "loael": 0.0,
+                "cmax": 0.0,
+                "auc": 0.0,
+                "clinical_signs": {
+                    "hepat": 0,
+                    "renal": 0,
+                    "cardiac": 0,
+                    "pulmonary": 0,
+                    "neuro": 0,
+                    "hemato": 0,
+                    "immune": 0
+                }
+            },
+            {
+                "type": "preclinical",
+                "species": "Rat",
+                "dose": 0.0,
+                "noael": 0.0,
+                "loael": 0.0,
+                "cmax": 0.0,
+                "auc": 0.0,
+                "clinical_signs": {
+                    "hepat": 0,
+                    "renal": 0,
+                    "cardiac": 0,
+                    "pulmonary": 0,
+                    "neuro": 0,
+                    "hemato": 0,
+                    "immune": 0
+                }
+            },
+            {
+                "type": "preclinical",
+                "species": "Rat",
+                "dose": 0.0,
+                "noael": 0.0,
+                "loael": 0.0,
+                "cmax": 0.0,
+                "auc": 0.0,
+                "clinical_signs": {
+                    "hepat": 0,
+                    "renal": 0,
+                    "cardiac": 0,
+                    "pulmonary": 0,
+                    "neuro": 0,
+                    "hemato": 0,
+                    "immune": 0
+                }
+            }
+        ]
+    },
+    "Paliperidone (ER)": {
+        "observations": [
+            {
+                "type": "clinical",
+                "sex": "M/F",
+                "dose": 0.0,
+                "cmax": 0.0,
+                "auc": 0.0,
+                "t_half": 0.0,
+                "clearance": 0.0,
+                "alt": 0.0,
+                "ast": 0.0,
+                "population": "Healthy",
+                "severity": "Mild",
+                "latency": "Acute",
+                "ae_flags": {
+                    "hepat": 0,
+                    "renal": 0,
+                    "cardiac": 0,
+                    "pulmonary": 0,
+                    "neuro": 0,
+                    "hemato": 0,
+                    "immune": 0
+                }
+            },
+            {
+                "type": "clinical",
+                "sex": "M/F",
+                "dose": 0.0,
+                "cmax": 0.0,
+                "auc": 0.0,
+                "t_half": 0.0,
+                "clearance": 0.0,
+                "alt": 0.0,
+                "ast": 0.0,
+                "population": "Healthy",
+                "severity": "Mild",
+                "latency": "Acute",
+                "ae_flags": {
+                    "hepat": 0,
+                    "renal": 0,
+                    "cardiac": 0,
+                    "pulmonary": 0,
+                    "neuro": 0,
+                    "hemato": 0,
+                    "immune": 0
+                }
+            }
+        ]
+    },
+    "Paliperidone (LAI)": {
+        "observations": [
+            {
+                "type": "clinical",
+                "sex": "M/F",
+                "dose": 0.0,
+                "cmax": 0.0,
+                "auc": 0.0,
+                "t_half": 0.0,
+                "clearance": 0.0,
+                "alt": 0.0,
+                "ast": 0.0,
+                "population": "Healthy",
+                "severity": "Mild",
+                "latency": "Acute",
+                "ae_flags": {
+                    "hepat": 0,
+                    "renal": 0,
+                    "cardiac": 0,
+                    "pulmonary": 0,
+                    "neuro": 0,
+                    "hemato": 0,
+                    "immune": 0
+                }
+            },
+            {
+                "type": "clinical",
+                "sex": "M/F",
+                "dose": 0.0,
+                "cmax": 0.0,
+                "auc": 0.0,
+                "t_half": 0.0,
+                "clearance": 0.0,
+                "alt": 0.0,
+                "ast": 0.0,
+                "population": "Healthy",
+                "severity": "Mild",
+                "latency": "Acute",
+                "ae_flags": {
+                    "hepat": 0,
+                    "renal": 0,
+                    "cardiac": 0,
+                    "pulmonary": 0,
+                    "neuro": 0,
+                    "hemato": 0,
+                    "immune": 0
+                }
+            }
+        ]
+    },
+    "Prucalopride": {
+        "observations": [
+            {
+                "type": "clinical",
+                "sex": "Unknown",
+                "dose": 0.0,
+                "cmax": 0.0,
+                "auc": 0.0,
+                "t_half": 0.0,
+                "clearance": 0.0,
+                "alt": 0.0,
+                "ast": 0.0,
+                "population": "Healthy",
+                "severity": "Mild",
+                "latency": "Acute",
+                "ae_flags": {
+                    "hepat": 0,
+                    "renal": 0,
+                    "cardiac": 0,
+                    "pulmonary": 0,
+                    "neuro": 0,
+                    "hemato": 0,
+                    "immune": 0
+                }
+            },
+            {
+                "type": "clinical",
+                "sex": "Unknown",
+                "dose": 0.0,
+                "cmax": 0.0,
+                "auc": 0.0,
+                "t_half": 0.0,
+                "clearance": 0.0,
+                "alt": 0.0,
+                "ast": 0.0,
+                "population": "Healthy",
+                "severity": "Mild",
+                "latency": "Acute",
+                "ae_flags": {
+                    "hepat": 0,
+                    "renal": 0,
+                    "cardiac": 0,
+                    "pulmonary": 0,
+                    "neuro": 0,
+                    "hemato": 0,
+                    "immune": 0
+                }
+            },
+            {
+                "type": "preclinical",
+                "species": "Rat (SD)",
+                "dose": 0.0,
+                "noael": 0.0,
+                "loael": 0.0,
+                "cmax": 0.0,
+                "auc": 0.0,
+                "clinical_signs": {
+                    "hepat": 0,
+                    "renal": 0,
+                    "cardiac": 0,
+                    "pulmonary": 0,
+                    "neuro": 0,
+                    "hemato": 0,
+                    "immune": 0
+                }
+            },
+            {
+                "type": "preclinical",
+                "species": "Rat (SD)",
+                "dose": 0.0,
+                "noael": 0.0,
+                "loael": 0.0,
+                "cmax": 0.0,
+                "auc": 0.0,
+                "clinical_signs": {
+                    "hepat": 0,
+                    "renal": 0,
+                    "cardiac": 0,
+                    "pulmonary": 0,
+                    "neuro": 0,
+                    "hemato": 0,
+                    "immune": 0
+                }
+            },
+            {
+                "type": "preclinical",
+                "species": "Dog (Beagle)",
+                "dose": 0.0,
+                "noael": 0.0,
+                "loael": 0.0,
+                "cmax": 0.0,
+                "auc": 0.0,
+                "clinical_signs": {
+                    "hepat": 0,
+                    "renal": 0,
+                    "cardiac": 0,
+                    "pulmonary": 0,
+                    "neuro": 0,
+                    "hemato": 0,
+                    "immune": 0
+                }
+            },
+            {
+                "type": "preclinical",
+                "species": "Rat",
+                "dose": 0.0,
+                "noael": 0.0,
+                "loael": 0.0,
+                "cmax": 0.0,
+                "auc": 0.0,
+                "clinical_signs": {
+                    "hepat": 0,
+                    "renal": 0,
+                    "cardiac": 0,
+                    "pulmonary": 0,
+                    "neuro": 0,
+                    "hemato": 0,
+                    "immune": 0
+                }
+            },
+            {
+                "type": "preclinical",
+                "species": "Rat",
+                "dose": 0.0,
+                "noael": 0.0,
+                "loael": 0.0,
+                "cmax": 0.0,
+                "auc": 0.0,
+                "clinical_signs": {
+                    "hepat": 0,
+                    "renal": 0,
+                    "cardiac": 0,
+                    "pulmonary": 0,
+                    "neuro": 0,
+                    "hemato": 0,
+                    "immune": 0
+                }
+            },
+            {
+                "type": "preclinical",
+                "species": "Dog",
+                "dose": 0.0,
+                "noael": 0.0,
+                "loael": 0.0,
+                "cmax": 0.0,
+                "auc": 0.0,
+                "clinical_signs": {
+                    "hepat": 0,
+                    "renal": 0,
+                    "cardiac": 0,
+                    "pulmonary": 0,
+                    "neuro": 0,
+                    "hemato": 0,
+                    "immune": 0
+                }
+            },
+            {
+                "type": "preclinical",
+                "species": "Rat",
+                "dose": 0.0,
+                "noael": 0.0,
+                "loael": 0.0,
+                "cmax": 0.0,
+                "auc": 0.0,
+                "clinical_signs": {
+                    "hepat": 0,
+                    "renal": 0,
+                    "cardiac": 0,
+                    "pulmonary": 0,
+                    "neuro": 0,
+                    "hemato": 0,
+                    "immune": 0
+                }
+            },
+            {
+                "type": "preclinical",
+                "species": "Dog",
+                "dose": 0.0,
+                "noael": 0.0,
+                "loael": 0.0,
+                "cmax": 0.0,
+                "auc": 0.0,
+                "clinical_signs": {
+                    "hepat": 0,
+                    "renal": 0,
+                    "cardiac": 0,
+                    "pulmonary": 0,
+                    "neuro": 0,
+                    "hemato": 0,
+                    "immune": 0
+                }
+            }
+        ]
+    },
+    "Cisapride": {
+        "observations": [
+            {
+                "type": "clinical",
+                "sex": "Unknown",
+                "dose": 0.0,
+                "cmax": 0.0,
+                "auc": 0.0,
+                "t_half": 0.0,
+                "clearance": 0.0,
+                "alt": 0.0,
+                "ast": 0.0,
+                "population": "Healthy",
+                "severity": "Mild",
+                "latency": "Acute",
+                "ae_flags": {
+                    "hepat": 0,
+                    "renal": 0,
+                    "cardiac": 0,
+                    "pulmonary": 0,
+                    "neuro": 0,
+                    "hemato": 0,
+                    "immune": 0
+                }
+            },
+            {
+                "type": "clinical",
+                "sex": "Unknown",
+                "dose": 0.0,
+                "cmax": 0.0,
+                "auc": 0.0,
+                "t_half": 0.0,
+                "clearance": 0.0,
+                "alt": 0.0,
+                "ast": 0.0,
+                "population": "Healthy",
+                "severity": "Mild",
+                "latency": "Acute",
+                "ae_flags": {
+                    "hepat": 0,
+                    "renal": 0,
+                    "cardiac": 0,
+                    "pulmonary": 0,
+                    "neuro": 0,
+                    "hemato": 0,
+                    "immune": 0
+                }
+            }
+        ]
+    },
+    "Tegaserod": {
+        "observations": [
+            {
+                "type": "clinical",
+                "sex": "Unknown",
+                "dose": 0.0,
+                "cmax": 0.0,
+                "auc": 0.0,
+                "t_half": 0.0,
+                "clearance": 0.0,
+                "alt": 0.0,
+                "ast": 0.0,
+                "population": "Healthy",
+                "severity": "Mild",
+                "latency": "Acute",
+                "ae_flags": {
+                    "hepat": 0,
+                    "renal": 0,
+                    "cardiac": 0,
+                    "pulmonary": 0,
+                    "neuro": 0,
+                    "hemato": 0,
+                    "immune": 0
+                }
+            },
+            {
+                "type": "clinical",
+                "sex": "Unknown",
+                "dose": 0.0,
+                "cmax": 0.0,
+                "auc": 0.0,
+                "t_half": 0.0,
+                "clearance": 0.0,
+                "alt": 0.0,
+                "ast": 0.0,
+                "population": "Healthy",
+                "severity": "Mild",
+                "latency": "Acute",
+                "ae_flags": {
+                    "hepat": 0,
+                    "renal": 0,
+                    "cardiac": 0,
+                    "pulmonary": 0,
+                    "neuro": 0,
+                    "hemato": 0,
+                    "immune": 0
+                }
+            }
+        ]
+    },
+    "Flunarizine": {
+        "observations": [
+            {
+                "type": "clinical",
+                "sex": "Unknown",
+                "dose": 10.0,
+                "cmax": 0.0,
+                "auc": 0.0,
+                "t_half": 0.0,
+                "clearance": 0.0,
+                "alt": 0.0,
+                "ast": 0.0,
+                "population": "Healthy",
+                "severity": "Mild",
+                "latency": "Acute",
+                "ae_flags": {
+                    "hepat": 0,
+                    "renal": 0,
+                    "cardiac": 0,
+                    "pulmonary": 0,
+                    "neuro": 0,
+                    "hemato": 0,
+                    "immune": 0
+                }
+            },
+            {
+                "type": "clinical",
+                "sex": "Unknown",
+                "dose": 10.0,
+                "cmax": 0.0,
+                "auc": 0.0,
+                "t_half": 0.0,
+                "clearance": 0.0,
+                "alt": 0.0,
+                "ast": 0.0,
+                "population": "Healthy",
+                "severity": "Mild",
+                "latency": "Acute",
+                "ae_flags": {
+                    "hepat": 0,
+                    "renal": 0,
+                    "cardiac": 0,
+                    "pulmonary": 0,
+                    "neuro": 0,
+                    "hemato": 0,
+                    "immune": 0
+                }
+            },
+            {
+                "type": "clinical",
+                "sex": "Unknown",
+                "dose": 5.0,
+                "cmax": 0.0,
+                "auc": 0.0,
+                "t_half": 0.0,
+                "clearance": 0.0,
+                "alt": 0.0,
+                "ast": 0.0,
+                "population": "Healthy",
+                "severity": "Mild",
+                "latency": "Acute",
+                "ae_flags": {
+                    "hepat": 0,
+                    "renal": 0,
+                    "cardiac": 0,
+                    "pulmonary": 0,
+                    "neuro": 0,
+                    "hemato": 0,
+                    "immune": 0
+                }
+            },
+            {
+                "type": "preclinical",
+                "species": "Dog",
+                "dose": 0.0,
+                "noael": 0.0,
+                "loael": 0.0,
+                "cmax": 0.0,
+                "auc": 0.0,
+                "clinical_signs": {
+                    "hepat": 0,
+                    "renal": 0,
+                    "cardiac": 0,
+                    "pulmonary": 0,
+                    "neuro": 0,
+                    "hemato": 0,
+                    "immune": 0
+                }
+            },
+            {
+                "type": "preclinical",
+                "species": "Rat",
+                "dose": 0.0,
+                "noael": 0.0,
+                "loael": 0.0,
+                "cmax": 0.0,
+                "auc": 0.0,
+                "clinical_signs": {
+                    "hepat": 0,
+                    "renal": 0,
+                    "cardiac": 0,
+                    "pulmonary": 0,
+                    "neuro": 0,
+                    "hemato": 0,
+                    "immune": 0
+                }
+            },
+            {
+                "type": "preclinical",
+                "species": "Rat",
+                "dose": 0.0,
+                "noael": 0.0,
+                "loael": 0.0,
+                "cmax": 0.0,
+                "auc": 0.0,
+                "clinical_signs": {
+                    "hepat": 0,
+                    "renal": 0,
+                    "cardiac": 0,
+                    "pulmonary": 0,
+                    "neuro": 0,
+                    "hemato": 0,
+                    "immune": 0
+                }
+            },
+            {
+                "type": "preclinical",
+                "species": "Dog",
+                "dose": 0.0,
+                "noael": 0.0,
+                "loael": 0.0,
+                "cmax": 0.0,
+                "auc": 0.0,
+                "clinical_signs": {
+                    "hepat": 0,
+                    "renal": 0,
+                    "cardiac": 0,
+                    "pulmonary": 0,
+                    "neuro": 0,
+                    "hemato": 0,
+                    "immune": 0
+                }
+            },
+            {
+                "type": "preclinical",
+                "species": "Dog",
+                "dose": 0.0,
+                "noael": 0.0,
+                "loael": 0.0,
+                "cmax": 0.0,
+                "auc": 0.0,
+                "clinical_signs": {
+                    "hepat": 0,
+                    "renal": 0,
+                    "cardiac": 0,
+                    "pulmonary": 0,
+                    "neuro": 0,
+                    "hemato": 0,
+                    "immune": 0
+                }
+            },
+            {
+                "type": "preclinical",
+                "species": "Rat ",
+                "dose": 0.0,
+                "noael": 0.0,
+                "loael": 0.0,
+                "cmax": 0.0,
+                "auc": 0.0,
+                "clinical_signs": {
+                    "hepat": 0,
+                    "renal": 0,
+                    "cardiac": 0,
+                    "pulmonary": 0,
+                    "neuro": 0,
+                    "hemato": 0,
+                    "immune": 0
+                }
+            },
+            {
+                "type": "preclinical",
+                "species": "Rat (SD)",
+                "dose": 0.0,
+                "noael": 0.0,
+                "loael": 0.0,
+                "cmax": 0.0,
+                "auc": 0.0,
+                "clinical_signs": {
+                    "hepat": 0,
+                    "renal": 0,
+                    "cardiac": 0,
+                    "pulmonary": 0,
+                    "neuro": 0,
+                    "hemato": 0,
+                    "immune": 0
+                }
+            },
+            {
+                "type": "preclinical",
+                "species": "Dog (Adult)",
+                "dose": 0.0,
+                "noael": 0.0,
+                "loael": 0.0,
+                "cmax": 0.0,
+                "auc": 0.0,
+                "clinical_signs": {
+                    "hepat": 0,
+                    "renal": 0,
+                    "cardiac": 0,
+                    "pulmonary": 0,
+                    "neuro": 0,
+                    "hemato": 0,
+                    "immune": 0
+                }
+            },
+            {
+                "type": "preclinical",
+                "species": "Rat (Wistar)",
+                "dose": 0.0,
+                "noael": 0.0,
+                "loael": 0.0,
+                "cmax": 0.0,
+                "auc": 0.0,
+                "clinical_signs": {
+                    "hepat": 0,
+                    "renal": 0,
+                    "cardiac": 0,
+                    "pulmonary": 0,
+                    "neuro": 0,
+                    "hemato": 0,
+                    "immune": 0
+                }
+            },
+            {
+                "type": "preclinical",
+                "species": "Mouse",
+                "dose": 0.0,
+                "noael": 0.0,
+                "loael": 0.0,
+                "cmax": 0.0,
+                "auc": 0.0,
+                "clinical_signs": {
+                    "hepat": 0,
+                    "renal": 0,
+                    "cardiac": 0,
+                    "pulmonary": 0,
+                    "neuro": 0,
+                    "hemato": 0,
+                    "immune": 0
+                }
+            }
+        ]
+    },
+    "Verapamil": {
+        "observations": [
+            {
+                "type": "clinical",
+                "sex": "Unknown",
+                "dose": 80.0,
+                "cmax": 0.0,
+                "auc": 0.0,
+                "t_half": 0.0,
+                "clearance": 0.0,
+                "alt": 0.0,
+                "ast": 0.0,
+                "population": "Healthy",
+                "severity": "Mild",
+                "latency": "Acute",
+                "ae_flags": {
+                    "hepat": 0,
+                    "renal": 0,
+                    "cardiac": 0,
+                    "pulmonary": 0,
+                    "neuro": 0,
+                    "hemato": 0,
+                    "immune": 0
+                }
+            },
+            {
+                "type": "clinical",
+                "sex": "Unknown",
+                "dose": 120.0,
+                "cmax": 0.0,
+                "auc": 0.0,
+                "t_half": 0.0,
+                "clearance": 0.0,
+                "alt": 0.0,
+                "ast": 0.0,
+                "population": "Healthy",
+                "severity": "Mild",
+                "latency": "Acute",
+                "ae_flags": {
+                    "hepat": 0,
+                    "renal": 0,
+                    "cardiac": 0,
+                    "pulmonary": 0,
+                    "neuro": 0,
+                    "hemato": 0,
+                    "immune": 0
+                }
+            },
+            {
+                "type": "clinical",
+                "sex": "Unknown",
+                "dose": 240.0,
+                "cmax": 0.0,
+                "auc": 0.0,
+                "t_half": 0.0,
+                "clearance": 0.0,
+                "alt": 0.0,
+                "ast": 0.0,
+                "population": "Healthy",
+                "severity": "Mild",
+                "latency": "Acute",
+                "ae_flags": {
+                    "hepat": 0,
+                    "renal": 0,
+                    "cardiac": 0,
+                    "pulmonary": 0,
+                    "neuro": 0,
+                    "hemato": 0,
+                    "immune": 0
+                }
+            },
+            {
+                "type": "clinical",
+                "sex": "Unknown",
+                "dose": 0.0,
+                "cmax": 0.0,
+                "auc": 0.0,
+                "t_half": 0.0,
+                "clearance": 0.0,
+                "alt": 0.0,
+                "ast": 0.0,
+                "population": "Healthy",
+                "severity": "Mild",
+                "latency": "Acute",
+                "ae_flags": {
+                    "hepat": 0,
+                    "renal": 0,
+                    "cardiac": 0,
+                    "pulmonary": 0,
+                    "neuro": 0,
+                    "hemato": 0,
+                    "immune": 0
+                }
+            }
+        ]
+    },
+    "Cinnarizine": {
+        "observations": [
+            {
+                "type": "clinical",
+                "sex": "Unknown",
+                "dose": 75.0,
+                "cmax": 0.0,
+                "auc": 0.0,
+                "t_half": 0.0,
+                "clearance": 0.0,
+                "alt": 0.0,
+                "ast": 0.0,
+                "population": "Healthy",
+                "severity": "Mild",
+                "latency": "Acute",
+                "ae_flags": {
+                    "hepat": 0,
+                    "renal": 0,
+                    "cardiac": 0,
+                    "pulmonary": 0,
+                    "neuro": 0,
+                    "hemato": 0,
+                    "immune": 0
+                }
+            },
+            {
+                "type": "clinical",
+                "sex": "Unknown",
+                "dose": 25.0,
+                "cmax": 0.0,
+                "auc": 0.0,
+                "t_half": 0.0,
+                "clearance": 0.0,
+                "alt": 0.0,
+                "ast": 0.0,
+                "population": "Healthy",
+                "severity": "Mild",
+                "latency": "Acute",
+                "ae_flags": {
+                    "hepat": 0,
+                    "renal": 0,
+                    "cardiac": 0,
+                    "pulmonary": 0,
+                    "neuro": 0,
+                    "hemato": 0,
+                    "immune": 0
+                }
+            }
+        ]
+    },
+    "Esketamine": {
+        "observations": [
+            {
+                "type": "clinical",
+                "sex": "Mixed",
+                "dose": 0.0,
+                "cmax": 0.0,
+                "auc": 0.0,
+                "t_half": 0.0,
+                "clearance": 0.0,
+                "alt": 0.0,
+                "ast": 0.0,
+                "population": "Healthy",
+                "severity": "Mild",
+                "latency": "Acute",
+                "ae_flags": {
+                    "hepat": 0,
+                    "renal": 0,
+                    "cardiac": 0,
+                    "pulmonary": 0,
+                    "neuro": 0,
+                    "hemato": 0,
+                    "immune": 0
+                }
+            },
+            {
+                "type": "clinical",
+                "sex": "Mixed",
+                "dose": 0.0,
+                "cmax": 0.0,
+                "auc": 0.0,
+                "t_half": 0.0,
+                "clearance": 0.0,
+                "alt": 0.0,
+                "ast": 0.0,
+                "population": "Healthy",
+                "severity": "Mild",
+                "latency": "Acute",
+                "ae_flags": {
+                    "hepat": 0,
+                    "renal": 0,
+                    "cardiac": 0,
+                    "pulmonary": 0,
+                    "neuro": 0,
+                    "hemato": 0,
+                    "immune": 0
+                }
+            },
+            {
+                "type": "clinical",
+                "sex": "Mixed",
+                "dose": 0.0,
+                "cmax": 0.0,
+                "auc": 0.0,
+                "t_half": 0.0,
+                "clearance": 0.0,
+                "alt": 0.0,
+                "ast": 0.0,
+                "population": "Healthy",
+                "severity": "Mild",
+                "latency": "Acute",
+                "ae_flags": {
+                    "hepat": 0,
+                    "renal": 0,
+                    "cardiac": 0,
+                    "pulmonary": 0,
+                    "neuro": 0,
+                    "hemato": 0,
+                    "immune": 0
+                }
+            },
+            {
+                "type": "clinical",
+                "sex": "Mixed",
+                "dose": 0.0,
+                "cmax": 0.0,
+                "auc": 0.0,
+                "t_half": 0.0,
+                "clearance": 0.0,
+                "alt": 0.0,
+                "ast": 0.0,
+                "population": "Healthy",
+                "severity": "Mild",
+                "latency": "Acute",
+                "ae_flags": {
+                    "hepat": 0,
+                    "renal": 0,
+                    "cardiac": 0,
+                    "pulmonary": 0,
+                    "neuro": 0,
+                    "hemato": 0,
+                    "immune": 0
+                }
+            },
+            {
+                "type": "clinical",
+                "sex": "Mixed",
+                "dose": 0.0,
+                "cmax": 0.0,
+                "auc": 0.0,
+                "t_half": 0.0,
+                "clearance": 0.0,
+                "alt": 0.0,
+                "ast": 0.0,
+                "population": "Healthy",
+                "severity": "Mild",
+                "latency": "Acute",
+                "ae_flags": {
+                    "hepat": 0,
+                    "renal": 0,
+                    "cardiac": 0,
+                    "pulmonary": 0,
+                    "neuro": 0,
+                    "hemato": 0,
+                    "immune": 0
+                }
+            },
+            {
+                "type": "clinical",
+                "sex": "Mixed",
+                "dose": 0.0,
+                "cmax": 0.0,
+                "auc": 0.0,
+                "t_half": 0.0,
+                "clearance": 0.0,
+                "alt": 0.0,
+                "ast": 0.0,
+                "population": "Healthy",
+                "severity": "Mild",
+                "latency": "Acute",
+                "ae_flags": {
+                    "hepat": 0,
+                    "renal": 0,
+                    "cardiac": 0,
+                    "pulmonary": 0,
+                    "neuro": 0,
+                    "hemato": 0,
+                    "immune": 0
+                }
+            },
+            {
+                "type": "clinical",
+                "sex": "Mixed",
+                "dose": 0.0,
+                "cmax": 0.0,
+                "auc": 0.0,
+                "t_half": 0.0,
+                "clearance": 0.0,
+                "alt": 0.0,
+                "ast": 0.0,
+                "population": "Healthy",
+                "severity": "Mild",
+                "latency": "Acute",
+                "ae_flags": {
+                    "hepat": 0,
+                    "renal": 0,
+                    "cardiac": 0,
+                    "pulmonary": 0,
+                    "neuro": 0,
+                    "hemato": 0,
+                    "immune": 0
+                }
+            },
+            {
+                "type": "clinical",
+                "sex": "Mixed",
+                "dose": 0.0,
+                "cmax": 0.0,
+                "auc": 0.0,
+                "t_half": 0.0,
+                "clearance": 0.0,
+                "alt": 0.0,
+                "ast": 0.0,
+                "population": "Healthy",
+                "severity": "Mild",
+                "latency": "Acute",
+                "ae_flags": {
+                    "hepat": 0,
+                    "renal": 0,
+                    "cardiac": 0,
+                    "pulmonary": 0,
+                    "neuro": 0,
+                    "hemato": 0,
+                    "immune": 0
+                }
+            },
+            {
+                "type": "clinical",
+                "sex": "Mixed",
+                "dose": 0.0,
+                "cmax": 0.0,
+                "auc": 0.0,
+                "t_half": 0.0,
+                "clearance": 0.0,
+                "alt": 0.0,
+                "ast": 0.0,
+                "population": "Healthy",
+                "severity": "Mild",
+                "latency": "Acute",
+                "ae_flags": {
+                    "hepat": 0,
+                    "renal": 0,
+                    "cardiac": 0,
+                    "pulmonary": 0,
+                    "neuro": 0,
+                    "hemato": 0,
+                    "immune": 0
+                }
+            },
+            {
+                "type": "clinical",
+                "sex": "Mixed",
+                "dose": 0.0,
+                "cmax": 0.0,
+                "auc": 0.0,
+                "t_half": 0.0,
+                "clearance": 0.0,
+                "alt": 0.0,
+                "ast": 0.0,
+                "population": "Healthy",
+                "severity": "Mild",
+                "latency": "Acute",
+                "ae_flags": {
+                    "hepat": 0,
+                    "renal": 0,
+                    "cardiac": 0,
+                    "pulmonary": 0,
+                    "neuro": 0,
+                    "hemato": 0,
+                    "immune": 0
+                }
+            },
+            {
+                "type": "clinical",
+                "sex": "Mixed",
+                "dose": 0.0,
+                "cmax": 0.0,
+                "auc": 0.0,
+                "t_half": 0.0,
+                "clearance": 0.0,
+                "alt": 0.0,
+                "ast": 0.0,
+                "population": "Healthy",
+                "severity": "Mild",
+                "latency": "Acute",
+                "ae_flags": {
+                    "hepat": 0,
+                    "renal": 0,
+                    "cardiac": 0,
+                    "pulmonary": 0,
+                    "neuro": 0,
+                    "hemato": 0,
+                    "immune": 0
+                }
+            },
+            {
+                "type": "clinical",
+                "sex": "Mixed",
+                "dose": 0.0,
+                "cmax": 0.0,
+                "auc": 0.0,
+                "t_half": 0.0,
+                "clearance": 0.0,
+                "alt": 0.0,
+                "ast": 0.0,
+                "population": "Healthy",
+                "severity": "Mild",
+                "latency": "Acute",
+                "ae_flags": {
+                    "hepat": 0,
+                    "renal": 0,
+                    "cardiac": 0,
+                    "pulmonary": 0,
+                    "neuro": 0,
+                    "hemato": 0,
+                    "immune": 0
+                }
+            },
+            {
+                "type": "preclinical",
+                "species": "Dog",
+                "dose": 0.0,
+                "noael": 0.0,
+                "loael": 0.0,
+                "cmax": 0.0,
+                "auc": 0.0,
+                "clinical_signs": {
+                    "hepat": 0,
+                    "renal": 0,
+                    "cardiac": 0,
+                    "pulmonary": 0,
+                    "neuro": 0,
+                    "hemato": 0,
+                    "immune": 0
+                }
+            },
+            {
+                "type": "preclinical",
+                "species": "Dog",
+                "dose": 0.0,
+                "noael": 0.0,
+                "loael": 0.0,
+                "cmax": 0.0,
+                "auc": 0.0,
+                "clinical_signs": {
+                    "hepat": 0,
+                    "renal": 0,
+                    "cardiac": 0,
+                    "pulmonary": 0,
+                    "neuro": 0,
+                    "hemato": 0,
+                    "immune": 0
+                }
+            },
+            {
+                "type": "preclinical",
+                "species": "Rat",
+                "dose": 0.0,
+                "noael": 0.0,
+                "loael": 0.0,
+                "cmax": 0.0,
+                "auc": 0.0,
+                "clinical_signs": {
+                    "hepat": 0,
+                    "renal": 0,
+                    "cardiac": 0,
+                    "pulmonary": 0,
+                    "neuro": 0,
+                    "hemato": 0,
+                    "immune": 0
+                }
+            },
+            {
+                "type": "preclinical",
+                "species": "Rat",
+                "dose": 0.0,
+                "noael": 0.0,
+                "loael": 0.0,
+                "cmax": 0.0,
+                "auc": 0.0,
+                "clinical_signs": {
+                    "hepat": 0,
+                    "renal": 0,
+                    "cardiac": 0,
+                    "pulmonary": 0,
+                    "neuro": 0,
+                    "hemato": 0,
+                    "immune": 0
+                }
+            },
+            {
+                "type": "preclinical",
+                "species": "Rabbit",
+                "dose": 0.0,
+                "noael": 0.0,
+                "loael": 0.0,
+                "cmax": 0.0,
+                "auc": 0.0,
+                "clinical_signs": {
+                    "hepat": 0,
+                    "renal": 0,
+                    "cardiac": 0,
+                    "pulmonary": 0,
+                    "neuro": 0,
+                    "hemato": 0,
+                    "immune": 0
+                }
+            },
+            {
+                "type": "preclinical",
+                "species": "Rat",
+                "dose": 0.0,
+                "noael": 0.0,
+                "loael": 0.0,
+                "cmax": 0.0,
+                "auc": 0.0,
+                "clinical_signs": {
+                    "hepat": 0,
+                    "renal": 0,
+                    "cardiac": 0,
+                    "pulmonary": 0,
+                    "neuro": 0,
+                    "hemato": 0,
+                    "immune": 0
+                }
+            },
+            {
+                "type": "preclinical",
+                "species": "Dog",
+                "dose": 0.0,
+                "noael": 0.0,
+                "loael": 0.0,
+                "cmax": 0.0,
+                "auc": 0.0,
+                "clinical_signs": {
+                    "hepat": 0,
+                    "renal": 0,
+                    "cardiac": 0,
+                    "pulmonary": 0,
+                    "neuro": 0,
+                    "hemato": 0,
+                    "immune": 0
+                }
+            },
+            {
+                "type": "preclinical",
+                "species": "Rat",
+                "dose": 0.0,
+                "noael": 0.0,
+                "loael": 0.0,
+                "cmax": 0.0,
+                "auc": 0.0,
+                "clinical_signs": {
+                    "hepat": 0,
+                    "renal": 0,
+                    "cardiac": 0,
+                    "pulmonary": 0,
+                    "neuro": 0,
+                    "hemato": 0,
+                    "immune": 0
+                }
+            },
+            {
+                "type": "preclinical",
+                "species": "Rat",
+                "dose": 0.0,
+                "noael": 0.0,
+                "loael": 0.0,
+                "cmax": 0.0,
+                "auc": 0.0,
+                "clinical_signs": {
+                    "hepat": 0,
+                    "renal": 0,
+                    "cardiac": 0,
+                    "pulmonary": 0,
+                    "neuro": 0,
+                    "hemato": 0,
+                    "immune": 0
+                }
+            },
+            {
+                "type": "preclinical",
+                "species": "Rat",
+                "dose": 0.0,
+                "noael": 0.0,
+                "loael": 0.0,
+                "cmax": 0.0,
+                "auc": 0.0,
+                "clinical_signs": {
+                    "hepat": 0,
+                    "renal": 0,
+                    "cardiac": 0,
+                    "pulmonary": 0,
+                    "neuro": 0,
+                    "hemato": 0,
+                    "immune": 0
+                }
+            },
+            {
+                "type": "preclinical",
+                "species": "Dog",
+                "dose": 0.0,
+                "noael": 0.0,
+                "loael": 0.0,
+                "cmax": 0.0,
+                "auc": 0.0,
+                "clinical_signs": {
+                    "hepat": 0,
+                    "renal": 0,
+                    "cardiac": 0,
+                    "pulmonary": 0,
+                    "neuro": 0,
+                    "hemato": 0,
+                    "immune": 0
+                }
+            }
+        ]
+    },
+    "Fentanyl": {
+        "observations": [
+            {
+                "type": "clinical",
+                "sex": "nan",
+                "dose": 100.0,
+                "cmax": 0.0,
+                "auc": 0.0,
+                "t_half": 0.0,
+                "clearance": 0.0,
+                "alt": 0.0,
+                "ast": 0.0,
+                "population": "Healthy",
+                "severity": "Mild",
+                "latency": "Acute",
+                "ae_flags": {
+                    "hepat": 0,
+                    "renal": 0,
+                    "cardiac": 0,
+                    "pulmonary": 0,
+                    "neuro": 0,
+                    "hemato": 0,
+                    "immune": 0
+                }
+            },
+            {
+                "type": "clinical",
+                "sex": "nan",
+                "dose": 400.0,
+                "cmax": 0.0,
+                "auc": 0.0,
+                "t_half": 0.0,
+                "clearance": 0.0,
+                "alt": 0.0,
+                "ast": 0.0,
+                "population": "Healthy",
+                "severity": "Mild",
+                "latency": "Acute",
+                "ae_flags": {
+                    "hepat": 0,
+                    "renal": 0,
+                    "cardiac": 0,
+                    "pulmonary": 0,
+                    "neuro": 0,
+                    "hemato": 0,
+                    "immune": 0
+                }
+            },
+            {
+                "type": "clinical",
+                "sex": "nan",
+                "dose": 800.0,
+                "cmax": 0.0,
+                "auc": 0.0,
+                "t_half": 0.0,
+                "clearance": 0.0,
+                "alt": 0.0,
+                "ast": 0.0,
+                "population": "Healthy",
+                "severity": "Mild",
+                "latency": "Acute",
+                "ae_flags": {
+                    "hepat": 0,
+                    "renal": 0,
+                    "cardiac": 0,
+                    "pulmonary": 0,
+                    "neuro": 0,
+                    "hemato": 0,
+                    "immune": 0
+                }
+            },
+            {
+                "type": "clinical",
+                "sex": "nan",
+                "dose": 400.0,
+                "cmax": 0.0,
+                "auc": 0.0,
+                "t_half": 0.0,
+                "clearance": 0.0,
+                "alt": 0.0,
+                "ast": 0.0,
+                "population": "Healthy",
+                "severity": "Mild",
+                "latency": "Acute",
+                "ae_flags": {
+                    "hepat": 0,
+                    "renal": 0,
+                    "cardiac": 0,
+                    "pulmonary": 0,
+                    "neuro": 0,
+                    "hemato": 0,
+                    "immune": 0
+                }
+            },
+            {
+                "type": "clinical",
+                "sex": "nan",
+                "dose": 100.0,
+                "cmax": 0.0,
+                "auc": 0.0,
+                "t_half": 0.0,
+                "clearance": 0.0,
+                "alt": 0.0,
+                "ast": 0.0,
+                "population": "Healthy",
+                "severity": "Mild",
+                "latency": "Acute",
+                "ae_flags": {
+                    "hepat": 0,
+                    "renal": 0,
+                    "cardiac": 0,
+                    "pulmonary": 0,
+                    "neuro": 0,
+                    "hemato": 0,
+                    "immune": 0
+                }
+            },
+            {
+                "type": "preclinical",
+                "species": "nan",
+                "dose": 0.0,
+                "noael": 0.0,
+                "loael": 0.0,
+                "cmax": 0.0,
+                "auc": 0.0,
+                "clinical_signs": {
+                    "hepat": 0,
+                    "renal": 0,
+                    "cardiac": 0,
+                    "pulmonary": 0,
+                    "neuro": 0,
+                    "hemato": 0,
+                    "immune": 0
+                }
+            },
+            {
+                "type": "preclinical",
+                "species": "nan",
+                "dose": 0.0,
+                "noael": 0.0,
+                "loael": 0.0,
+                "cmax": 0.0,
+                "auc": 0.0,
+                "clinical_signs": {
+                    "hepat": 0,
+                    "renal": 0,
+                    "cardiac": 0,
+                    "pulmonary": 0,
+                    "neuro": 0,
+                    "hemato": 0,
+                    "immune": 0
+                }
+            },
+            {
+                "type": "preclinical",
+                "species": "nan",
+                "dose": 0.0,
+                "noael": 0.0,
+                "loael": 0.0,
+                "cmax": 0.0,
+                "auc": 0.0,
+                "clinical_signs": {
+                    "hepat": 0,
+                    "renal": 0,
+                    "cardiac": 0,
+                    "pulmonary": 0,
+                    "neuro": 0,
+                    "hemato": 0,
+                    "immune": 0
+                }
+            },
+            {
+                "type": "preclinical",
+                "species": "nan",
+                "dose": 0.0,
+                "noael": 0.0,
+                "loael": 0.0,
+                "cmax": 0.0,
+                "auc": 0.0,
+                "clinical_signs": {
+                    "hepat": 0,
+                    "renal": 0,
+                    "cardiac": 0,
+                    "pulmonary": 0,
+                    "neuro": 0,
+                    "hemato": 0,
+                    "immune": 0
+                }
+            },
+            {
+                "type": "preclinical",
+                "species": "Rat",
+                "dose": 0.0,
+                "noael": 0.0,
+                "loael": 0.0,
+                "cmax": 0.0,
+                "auc": 0.0,
+                "clinical_signs": {
+                    "hepat": 0,
+                    "renal": 0,
+                    "cardiac": 0,
+                    "pulmonary": 0,
+                    "neuro": 0,
+                    "hemato": 0,
+                    "immune": 0
+                }
+            },
+            {
+                "type": "preclinical",
+                "species": "Dog",
+                "dose": 0.0,
+                "noael": 0.0,
+                "loael": 0.0,
+                "cmax": 0.0,
+                "auc": 0.0,
+                "clinical_signs": {
+                    "hepat": 0,
+                    "renal": 0,
+                    "cardiac": 0,
+                    "pulmonary": 0,
+                    "neuro": 0,
+                    "hemato": 0,
+                    "immune": 0
+                }
+            },
+            {
+                "type": "preclinical",
+                "species": "Rat",
+                "dose": 0.0,
+                "noael": 0.0,
+                "loael": 0.0,
+                "cmax": 0.0,
+                "auc": 0.0,
+                "clinical_signs": {
+                    "hepat": 0,
+                    "renal": 0,
+                    "cardiac": 0,
+                    "pulmonary": 0,
+                    "neuro": 0,
+                    "hemato": 0,
+                    "immune": 0
+                }
+            },
+            {
+                "type": "preclinical",
+                "species": "Dog",
+                "dose": 0.0,
+                "noael": 0.0,
+                "loael": 0.0,
+                "cmax": 0.0,
+                "auc": 0.0,
+                "clinical_signs": {
+                    "hepat": 0,
+                    "renal": 0,
+                    "cardiac": 0,
+                    "pulmonary": 0,
+                    "neuro": 0,
+                    "hemato": 0,
+                    "immune": 0
+                }
+            },
+            {
+                "type": "preclinical",
+                "species": "Rat",
+                "dose": 0.0,
+                "noael": 0.0,
+                "loael": 0.0,
+                "cmax": 0.0,
+                "auc": 0.0,
+                "clinical_signs": {
+                    "hepat": 0,
+                    "renal": 0,
+                    "cardiac": 0,
+                    "pulmonary": 0,
+                    "neuro": 0,
+                    "hemato": 0,
+                    "immune": 0
+                }
+            },
+            {
+                "type": "preclinical",
+                "species": "Rat",
+                "dose": 0.0,
+                "noael": 0.0,
+                "loael": 0.0,
+                "cmax": 0.0,
+                "auc": 0.0,
+                "clinical_signs": {
+                    "hepat": 0,
+                    "renal": 0,
+                    "cardiac": 0,
+                    "pulmonary": 0,
+                    "neuro": 0,
+                    "hemato": 0,
+                    "immune": 0
+                }
+            },
+            {
+                "type": "preclinical",
+                "species": "Dog",
+                "dose": 0.0,
+                "noael": 0.0,
+                "loael": 0.0,
+                "cmax": 0.0,
+                "auc": 0.0,
+                "clinical_signs": {
+                    "hepat": 0,
+                    "renal": 0,
+                    "cardiac": 0,
+                    "pulmonary": 0,
+                    "neuro": 0,
+                    "hemato": 0,
+                    "immune": 0
+                }
+            }
+        ]
+    },
+    "Sufentanil": {
+        "observations": [
+            {
+                "type": "clinical",
+                "sex": "Male",
+                "dose": 1.0,
+                "cmax": 0.0,
+                "auc": 0.0,
+                "t_half": 0.0,
+                "clearance": 0.0,
+                "alt": 0.0,
+                "ast": 0.0,
+                "population": "Healthy",
+                "severity": "Mild",
+                "latency": "Acute",
+                "ae_flags": {
+                    "hepat": 0,
+                    "renal": 0,
+                    "cardiac": 0,
+                    "pulmonary": 0,
+                    "neuro": 0,
+                    "hemato": 0,
+                    "immune": 0
+                }
+            },
+            {
+                "type": "clinical",
+                "sex": "Female",
+                "dose": 1.0,
+                "cmax": 0.0,
+                "auc": 0.0,
+                "t_half": 0.0,
+                "clearance": 0.0,
+                "alt": 0.0,
+                "ast": 0.0,
+                "population": "Healthy",
+                "severity": "Mild",
+                "latency": "Acute",
+                "ae_flags": {
+                    "hepat": 0,
+                    "renal": 0,
+                    "cardiac": 0,
+                    "pulmonary": 0,
+                    "neuro": 0,
+                    "hemato": 0,
+                    "immune": 0
+                }
+            }
+        ]
+    },
+    "Alfentanil": {
+        "observations": [
+            {
+                "type": "clinical",
+                "sex": "Male",
+                "dose": 50.0,
+                "cmax": 0.0,
+                "auc": 0.0,
+                "t_half": 0.0,
+                "clearance": 0.0,
+                "alt": 0.0,
+                "ast": 0.0,
+                "population": "Healthy",
+                "severity": "Mild",
+                "latency": "Acute",
+                "ae_flags": {
+                    "hepat": 0,
+                    "renal": 0,
+                    "cardiac": 0,
+                    "pulmonary": 0,
+                    "neuro": 0,
+                    "hemato": 0,
+                    "immune": 0
+                }
+            },
+            {
+                "type": "clinical",
+                "sex": "Female",
+                "dose": 50.0,
+                "cmax": 0.0,
+                "auc": 0.0,
+                "t_half": 0.0,
+                "clearance": 0.0,
+                "alt": 0.0,
+                "ast": 0.0,
+                "population": "Healthy",
+                "severity": "Mild",
+                "latency": "Acute",
+                "ae_flags": {
+                    "hepat": 0,
+                    "renal": 0,
+                    "cardiac": 0,
+                    "pulmonary": 0,
+                    "neuro": 0,
+                    "hemato": 0,
+                    "immune": 0
+                }
+            }
+        ]
+    },
+    "Remifentanil": {
+        "observations": [
+            {
+                "type": "clinical",
+                "sex": "Male",
+                "dose": 1.0,
+                "cmax": 0.0,
+                "auc": 0.0,
+                "t_half": 0.0,
+                "clearance": 0.0,
+                "alt": 0.0,
+                "ast": 0.0,
+                "population": "Healthy",
+                "severity": "Mild",
+                "latency": "Acute",
+                "ae_flags": {
+                    "hepat": 0,
+                    "renal": 0,
+                    "cardiac": 0,
+                    "pulmonary": 0,
+                    "neuro": 0,
+                    "hemato": 0,
+                    "immune": 0
+                }
+            },
+            {
+                "type": "clinical",
+                "sex": "Female",
+                "dose": 1.0,
+                "cmax": 0.0,
+                "auc": 0.0,
+                "t_half": 0.0,
+                "clearance": 0.0,
+                "alt": 0.0,
+                "ast": 0.0,
+                "population": "Healthy",
+                "severity": "Mild",
+                "latency": "Acute",
+                "ae_flags": {
+                    "hepat": 0,
+                    "renal": 0,
+                    "cardiac": 0,
+                    "pulmonary": 0,
+                    "neuro": 0,
+                    "hemato": 0,
+                    "immune": 0
+                }
+            }
+        ]
+    },
+    "Carfentanil": {
+        "observations": [
+            {
+                "type": "clinical",
+                "sex": "Male",
+                "dose": 0.34,
+                "cmax": 0.0,
+                "auc": 0.0,
+                "t_half": 0.0,
+                "clearance": 0.0,
+                "alt": 0.0,
+                "ast": 0.0,
+                "population": "Healthy",
+                "severity": "Mild",
+                "latency": "Acute",
+                "ae_flags": {
+                    "hepat": 0,
+                    "renal": 0,
+                    "cardiac": 0,
+                    "pulmonary": 0,
+                    "neuro": 0,
+                    "hemato": 0,
+                    "immune": 0
+                }
+            }
+        ]
+    },
+    "Lofentanil": {
+        "observations": [
+            {
+                "type": "clinical",
+                "sex": "Female",
+                "dose": 0.5,
+                "cmax": 0.0,
+                "auc": 0.0,
+                "t_half": 0.0,
+                "clearance": 0.0,
+                "alt": 0.0,
+                "ast": 0.0,
+                "population": "Healthy",
+                "severity": "Mild",
+                "latency": "Acute",
+                "ae_flags": {
+                    "hepat": 0,
+                    "renal": 0,
+                    "cardiac": 0,
+                    "pulmonary": 0,
+                    "neuro": 0,
+                    "hemato": 0,
+                    "immune": 0
+                }
+            }
+        ]
+    },
+    "Citalopram": {
+        "observations": [
+            {
+                "type": "preclinical",
+                "species": "Dog",
+                "dose": 0.0,
+                "noael": 0.0,
+                "loael": 0.0,
+                "cmax": 0.0,
+                "auc": 0.0,
+                "clinical_signs": {
+                    "hepat": 0,
+                    "renal": 0,
+                    "cardiac": 0,
+                    "pulmonary": 0,
+                    "neuro": 0,
+                    "hemato": 0,
+                    "immune": 0
+                }
+            },
+            {
+                "type": "preclinical",
+                "species": "Dog",
+                "dose": 0.0,
+                "noael": 0.0,
+                "loael": 0.0,
+                "cmax": 0.0,
+                "auc": 0.0,
+                "clinical_signs": {
+                    "hepat": 0,
+                    "renal": 0,
+                    "cardiac": 0,
+                    "pulmonary": 0,
+                    "neuro": 0,
+                    "hemato": 0,
+                    "immune": 0
+                }
+            },
+            {
+                "type": "preclinical",
+                "species": "Rat",
+                "dose": 0.0,
+                "noael": 0.0,
+                "loael": 0.0,
+                "cmax": 0.0,
+                "auc": 0.0,
+                "clinical_signs": {
+                    "hepat": 0,
+                    "renal": 0,
+                    "cardiac": 0,
+                    "pulmonary": 0,
+                    "neuro": 0,
+                    "hemato": 0,
+                    "immune": 0
+                }
+            },
+            {
+                "type": "preclinical",
+                "species": "Rat",
+                "dose": 0.0,
+                "noael": 0.0,
+                "loael": 0.0,
+                "cmax": 0.0,
+                "auc": 0.0,
+                "clinical_signs": {
+                    "hepat": 0,
+                    "renal": 0,
+                    "cardiac": 0,
+                    "pulmonary": 0,
+                    "neuro": 0,
+                    "hemato": 0,
+                    "immune": 0
+                }
+            },
+            {
+                "type": "preclinical",
+                "species": "Rat",
+                "dose": 0.0,
+                "noael": 0.0,
+                "loael": 0.0,
+                "cmax": 0.0,
+                "auc": 0.0,
+                "clinical_signs": {
+                    "hepat": 0,
+                    "renal": 0,
+                    "cardiac": 0,
+                    "pulmonary": 0,
+                    "neuro": 0,
+                    "hemato": 0,
+                    "immune": 0
+                }
+            },
+            {
+                "type": "preclinical",
+                "species": "Rat",
+                "dose": 0.0,
+                "noael": 0.0,
+                "loael": 0.0,
+                "cmax": 0.0,
+                "auc": 0.0,
+                "clinical_signs": {
+                    "hepat": 0,
+                    "renal": 0,
+                    "cardiac": 0,
+                    "pulmonary": 0,
+                    "neuro": 0,
+                    "hemato": 0,
+                    "immune": 0
+                }
+            },
+            {
+                "type": "preclinical",
+                "species": "Dog",
+                "dose": 0.0,
+                "noael": 0.0,
+                "loael": 0.0,
+                "cmax": 0.0,
+                "auc": 0.0,
+                "clinical_signs": {
+                    "hepat": 0,
+                    "renal": 0,
+                    "cardiac": 0,
+                    "pulmonary": 0,
+                    "neuro": 0,
+                    "hemato": 0,
+                    "immune": 0
+                }
+            },
+            {
+                "type": "preclinical",
+                "species": "Dog",
+                "dose": 0.0,
+                "noael": 0.0,
+                "loael": 0.0,
+                "cmax": 0.0,
+                "auc": 0.0,
+                "clinical_signs": {
+                    "hepat": 0,
+                    "renal": 0,
+                    "cardiac": 0,
+                    "pulmonary": 0,
+                    "neuro": 0,
+                    "hemato": 0,
+                    "immune": 0
+                }
+            },
+            {
+                "type": "preclinical",
+                "species": "Rat",
+                "dose": 0.0,
+                "noael": 0.0,
+                "loael": 0.0,
+                "cmax": 0.0,
+                "auc": 0.0,
+                "clinical_signs": {
+                    "hepat": 0,
+                    "renal": 0,
+                    "cardiac": 0,
+                    "pulmonary": 0,
+                    "neuro": 0,
+                    "hemato": 0,
+                    "immune": 0
+                }
+            },
+            {
+                "type": "preclinical",
+                "species": "Rat",
+                "dose": 0.0,
+                "noael": 0.0,
+                "loael": 0.0,
+                "cmax": 0.0,
+                "auc": 0.0,
+                "clinical_signs": {
+                    "hepat": 0,
+                    "renal": 0,
+                    "cardiac": 0,
+                    "pulmonary": 0,
+                    "neuro": 0,
+                    "hemato": 0,
+                    "immune": 0
+                }
+            },
+            {
+                "type": "preclinical",
+                "species": "Dog",
+                "dose": 0.0,
+                "noael": 0.0,
+                "loael": 0.0,
+                "cmax": 0.0,
+                "auc": 0.0,
+                "clinical_signs": {
+                    "hepat": 0,
+                    "renal": 0,
+                    "cardiac": 0,
+                    "pulmonary": 0,
+                    "neuro": 0,
+                    "hemato": 0,
+                    "immune": 0
+                }
+            },
+            {
+                "type": "preclinical",
+                "species": "Dog",
+                "dose": 0.0,
+                "noael": 0.0,
+                "loael": 0.0,
+                "cmax": 0.0,
+                "auc": 0.0,
+                "clinical_signs": {
+                    "hepat": 0,
+                    "renal": 0,
+                    "cardiac": 0,
+                    "pulmonary": 0,
+                    "neuro": 0,
+                    "hemato": 0,
+                    "immune": 0
+                }
+            },
+            {
+                "type": "preclinical",
+                "species": "Mouse",
+                "dose": 0.0,
+                "noael": 0.0,
+                "loael": 0.0,
+                "cmax": 0.0,
+                "auc": 0.0,
+                "clinical_signs": {
+                    "hepat": 0,
+                    "renal": 0,
+                    "cardiac": 0,
+                    "pulmonary": 0,
+                    "neuro": 0,
+                    "hemato": 0,
+                    "immune": 0
+                }
+            }
+        ]
+    },
+    "Galantamine": {
+        "observations": [
+            {
+                "type": "preclinical",
+                "species": "Dog",
+                "dose": 0.0,
+                "noael": 0.0,
+                "loael": 0.0,
+                "cmax": 0.0,
+                "auc": 0.0,
+                "clinical_signs": {
+                    "hepat": 0,
+                    "renal": 0,
+                    "cardiac": 0,
+                    "pulmonary": 0,
+                    "neuro": 0,
+                    "hemato": 0,
+                    "immune": 0
+                }
+            },
+            {
+                "type": "preclinical",
+                "species": "Dog",
+                "dose": 0.0,
+                "noael": 0.0,
+                "loael": 0.0,
+                "cmax": 0.0,
+                "auc": 0.0,
+                "clinical_signs": {
+                    "hepat": 0,
+                    "renal": 0,
+                    "cardiac": 0,
+                    "pulmonary": 0,
+                    "neuro": 0,
+                    "hemato": 0,
+                    "immune": 0
+                }
+            },
+            {
+                "type": "preclinical",
+                "species": "Rat",
+                "dose": 0.0,
+                "noael": 0.0,
+                "loael": 0.0,
+                "cmax": 0.0,
+                "auc": 0.0,
+                "clinical_signs": {
+                    "hepat": 0,
+                    "renal": 0,
+                    "cardiac": 0,
+                    "pulmonary": 0,
+                    "neuro": 0,
+                    "hemato": 0,
+                    "immune": 0
+                }
+            },
+            {
+                "type": "preclinical",
+                "species": "Rat",
+                "dose": 0.0,
+                "noael": 0.0,
+                "loael": 0.0,
+                "cmax": 0.0,
+                "auc": 0.0,
+                "clinical_signs": {
+                    "hepat": 0,
+                    "renal": 0,
+                    "cardiac": 0,
+                    "pulmonary": 0,
+                    "neuro": 0,
+                    "hemato": 0,
+                    "immune": 0
+                }
+            },
+            {
+                "type": "preclinical",
+                "species": "Rat",
+                "dose": 0.0,
+                "noael": 0.0,
+                "loael": 0.0,
+                "cmax": 0.0,
+                "auc": 0.0,
+                "clinical_signs": {
+                    "hepat": 0,
+                    "renal": 0,
+                    "cardiac": 0,
+                    "pulmonary": 0,
+                    "neuro": 0,
+                    "hemato": 0,
+                    "immune": 0
+                }
+            },
+            {
+                "type": "preclinical",
+                "species": "Rat",
+                "dose": 0.0,
+                "noael": 0.0,
+                "loael": 0.0,
+                "cmax": 0.0,
+                "auc": 0.0,
+                "clinical_signs": {
+                    "hepat": 0,
+                    "renal": 0,
+                    "cardiac": 0,
+                    "pulmonary": 0,
+                    "neuro": 0,
+                    "hemato": 0,
+                    "immune": 0
+                }
+            },
+            {
+                "type": "preclinical",
+                "species": "Dog",
+                "dose": 0.0,
+                "noael": 0.0,
+                "loael": 0.0,
+                "cmax": 0.0,
+                "auc": 0.0,
+                "clinical_signs": {
+                    "hepat": 0,
+                    "renal": 0,
+                    "cardiac": 0,
+                    "pulmonary": 0,
+                    "neuro": 0,
+                    "hemato": 0,
+                    "immune": 0
+                }
+            },
+            {
+                "type": "preclinical",
+                "species": "Dog",
+                "dose": 0.0,
+                "noael": 0.0,
+                "loael": 0.0,
+                "cmax": 0.0,
+                "auc": 0.0,
+                "clinical_signs": {
+                    "hepat": 0,
+                    "renal": 0,
+                    "cardiac": 0,
+                    "pulmonary": 0,
+                    "neuro": 0,
+                    "hemato": 0,
+                    "immune": 0
+                }
+            },
+            {
+                "type": "preclinical",
+                "species": "Mouse",
+                "dose": 0.0,
+                "noael": 0.0,
+                "loael": 0.0,
+                "cmax": 0.0,
+                "auc": 0.0,
+                "clinical_signs": {
+                    "hepat": 0,
+                    "renal": 0,
+                    "cardiac": 0,
+                    "pulmonary": 0,
+                    "neuro": 0,
+                    "hemato": 0,
+                    "immune": 0
+                }
+            },
+            {
+                "type": "preclinical",
+                "species": "Mouse",
+                "dose": 0.0,
+                "noael": 0.0,
+                "loael": 0.0,
+                "cmax": 0.0,
+                "auc": 0.0,
+                "clinical_signs": {
+                    "hepat": 0,
+                    "renal": 0,
+                    "cardiac": 0,
+                    "pulmonary": 0,
+                    "neuro": 0,
+                    "hemato": 0,
+                    "immune": 0
+                }
+            },
+            {
+                "type": "preclinical",
+                "species": "Rat",
+                "dose": 0.0,
+                "noael": 0.0,
+                "loael": 0.0,
+                "cmax": 0.0,
+                "auc": 0.0,
+                "clinical_signs": {
+                    "hepat": 0,
+                    "renal": 0,
+                    "cardiac": 0,
+                    "pulmonary": 0,
+                    "neuro": 0,
+                    "hemato": 0,
+                    "immune": 0
+                }
+            },
+            {
+                "type": "preclinical",
+                "species": "Rat",
+                "dose": 0.0,
+                "noael": 0.0,
+                "loael": 0.0,
+                "cmax": 0.0,
+                "auc": 0.0,
+                "clinical_signs": {
+                    "hepat": 0,
+                    "renal": 0,
+                    "cardiac": 0,
+                    "pulmonary": 0,
+                    "neuro": 0,
+                    "hemato": 0,
+                    "immune": 0
+                }
+            },
+            {
+                "type": "preclinical",
+                "species": "Dog",
+                "dose": 0.0,
+                "noael": 0.0,
+                "loael": 0.0,
+                "cmax": 0.0,
+                "auc": 0.0,
+                "clinical_signs": {
+                    "hepat": 0,
+                    "renal": 0,
+                    "cardiac": 0,
+                    "pulmonary": 0,
+                    "neuro": 0,
+                    "hemato": 0,
+                    "immune": 0
+                }
+            },
+            {
+                "type": "preclinical",
+                "species": "Dog",
+                "dose": 0.0,
+                "noael": 0.0,
+                "loael": 0.0,
+                "cmax": 0.0,
+                "auc": 0.0,
+                "clinical_signs": {
+                    "hepat": 0,
+                    "renal": 0,
+                    "cardiac": 0,
+                    "pulmonary": 0,
+                    "neuro": 0,
+                    "hemato": 0,
+                    "immune": 0
+                }
+            },
+            {
+                "type": "preclinical",
+                "species": "Monkey",
+                "dose": 0.0,
+                "noael": 0.0,
+                "loael": 0.0,
+                "cmax": 0.0,
+                "auc": 0.0,
+                "clinical_signs": {
+                    "hepat": 0,
+                    "renal": 0,
+                    "cardiac": 0,
+                    "pulmonary": 0,
+                    "neuro": 0,
+                    "hemato": 0,
+                    "immune": 0
+                }
+            },
+            {
+                "type": "preclinical",
+                "species": "Monkey",
+                "dose": 0.0,
+                "noael": 0.0,
+                "loael": 0.0,
+                "cmax": 0.0,
+                "auc": 0.0,
+                "clinical_signs": {
+                    "hepat": 0,
+                    "renal": 0,
+                    "cardiac": 0,
+                    "pulmonary": 0,
+                    "neuro": 0,
+                    "hemato": 0,
+                    "immune": 0
+                }
+            }
+        ]
+    },
+    "Haldol Decanoate": {
+        "observations": [
+            {
+                "type": "preclinical",
+                "species": "Dog",
+                "dose": 0.0,
+                "noael": 0.0,
+                "loael": 0.0,
+                "cmax": 0.0,
+                "auc": 0.0,
+                "clinical_signs": {
+                    "hepat": 0,
+                    "renal": 0,
+                    "cardiac": 0,
+                    "pulmonary": 0,
+                    "neuro": 0,
+                    "hemato": 0,
+                    "immune": 0
+                }
+            },
+            {
+                "type": "preclinical",
+                "species": "Dog",
+                "dose": 0.0,
+                "noael": 0.0,
+                "loael": 0.0,
+                "cmax": 0.0,
+                "auc": 0.0,
+                "clinical_signs": {
+                    "hepat": 0,
+                    "renal": 0,
+                    "cardiac": 0,
+                    "pulmonary": 0,
+                    "neuro": 0,
+                    "hemato": 0,
+                    "immune": 0
+                }
+            },
+            {
+                "type": "preclinical",
+                "species": "Rat",
+                "dose": 0.0,
+                "noael": 0.0,
+                "loael": 0.0,
+                "cmax": 0.0,
+                "auc": 0.0,
+                "clinical_signs": {
+                    "hepat": 0,
+                    "renal": 0,
+                    "cardiac": 0,
+                    "pulmonary": 0,
+                    "neuro": 0,
+                    "hemato": 0,
+                    "immune": 0
+                }
+            },
+            {
+                "type": "preclinical",
+                "species": "Dog",
+                "dose": 0.0,
+                "noael": 0.0,
+                "loael": 0.0,
+                "cmax": 0.0,
+                "auc": 0.0,
+                "clinical_signs": {
+                    "hepat": 0,
+                    "renal": 0,
+                    "cardiac": 0,
+                    "pulmonary": 0,
+                    "neuro": 0,
+                    "hemato": 0,
+                    "immune": 0
+                }
+            },
+            {
+                "type": "preclinical",
+                "species": "Rat",
+                "dose": 0.0,
+                "noael": 0.0,
+                "loael": 0.0,
+                "cmax": 0.0,
+                "auc": 0.0,
+                "clinical_signs": {
+                    "hepat": 0,
+                    "renal": 0,
+                    "cardiac": 0,
+                    "pulmonary": 0,
+                    "neuro": 0,
+                    "hemato": 0,
+                    "immune": 0
+                }
+            },
+            {
+                "type": "preclinical",
+                "species": "Dog",
+                "dose": 0.0,
+                "noael": 0.0,
+                "loael": 0.0,
+                "cmax": 0.0,
+                "auc": 0.0,
+                "clinical_signs": {
+                    "hepat": 0,
+                    "renal": 0,
+                    "cardiac": 0,
+                    "pulmonary": 0,
+                    "neuro": 0,
+                    "hemato": 0,
+                    "immune": 0
+                }
+            }
+        ]
+    },
+    "Methylphenidate": {
+        "observations": [
+            {
+                "type": "preclinical",
+                "species": "Mouse",
+                "dose": 0.0,
+                "noael": 0.0,
+                "loael": 0.0,
+                "cmax": 0.0,
+                "auc": 0.0,
+                "clinical_signs": {
+                    "hepat": 0,
+                    "renal": 0,
+                    "cardiac": 0,
+                    "pulmonary": 0,
+                    "neuro": 0,
+                    "hemato": 0,
+                    "immune": 0
+                }
+            },
+            {
+                "type": "preclinical",
+                "species": "Mouse",
+                "dose": 0.0,
+                "noael": 0.0,
+                "loael": 0.0,
+                "cmax": 0.0,
+                "auc": 0.0,
+                "clinical_signs": {
+                    "hepat": 0,
+                    "renal": 0,
+                    "cardiac": 0,
+                    "pulmonary": 0,
+                    "neuro": 0,
+                    "hemato": 0,
+                    "immune": 0
+                }
+            },
+            {
+                "type": "preclinical",
+                "species": "Rat",
+                "dose": 0.0,
+                "noael": 0.0,
+                "loael": 0.0,
+                "cmax": 0.0,
+                "auc": 0.0,
+                "clinical_signs": {
+                    "hepat": 0,
+                    "renal": 0,
+                    "cardiac": 0,
+                    "pulmonary": 0,
+                    "neuro": 0,
+                    "hemato": 0,
+                    "immune": 0
+                }
+            },
+            {
+                "type": "preclinical",
+                "species": "Rat",
+                "dose": 0.0,
+                "noael": 0.0,
+                "loael": 0.0,
+                "cmax": 0.0,
+                "auc": 0.0,
+                "clinical_signs": {
+                    "hepat": 0,
+                    "renal": 0,
+                    "cardiac": 0,
+                    "pulmonary": 0,
+                    "neuro": 0,
+                    "hemato": 0,
+                    "immune": 0
+                }
+            },
+            {
+                "type": "preclinical",
+                "species": "Rat",
+                "dose": 0.0,
+                "noael": 0.0,
+                "loael": 0.0,
+                "cmax": 0.0,
+                "auc": 0.0,
+                "clinical_signs": {
+                    "hepat": 0,
+                    "renal": 0,
+                    "cardiac": 0,
+                    "pulmonary": 0,
+                    "neuro": 0,
+                    "hemato": 0,
+                    "immune": 0
+                }
+            },
+            {
+                "type": "preclinical",
+                "species": "Rat",
+                "dose": 0.0,
+                "noael": 0.0,
+                "loael": 0.0,
+                "cmax": 0.0,
+                "auc": 0.0,
+                "clinical_signs": {
+                    "hepat": 0,
+                    "renal": 0,
+                    "cardiac": 0,
+                    "pulmonary": 0,
+                    "neuro": 0,
+                    "hemato": 0,
+                    "immune": 0
+                }
+            },
+            {
+                "type": "preclinical",
+                "species": "Dog",
+                "dose": 0.0,
+                "noael": 0.0,
+                "loael": 0.0,
+                "cmax": 0.0,
+                "auc": 0.0,
+                "clinical_signs": {
+                    "hepat": 0,
+                    "renal": 0,
+                    "cardiac": 0,
+                    "pulmonary": 0,
+                    "neuro": 0,
+                    "hemato": 0,
+                    "immune": 0
+                }
+            },
+            {
+                "type": "preclinical",
+                "species": "Dog",
+                "dose": 0.0,
+                "noael": 0.0,
+                "loael": 0.0,
+                "cmax": 0.0,
+                "auc": 0.0,
+                "clinical_signs": {
+                    "hepat": 0,
+                    "renal": 0,
+                    "cardiac": 0,
+                    "pulmonary": 0,
+                    "neuro": 0,
+                    "hemato": 0,
+                    "immune": 0
+                }
+            },
+            {
+                "type": "preclinical",
+                "species": "Mouse",
+                "dose": 0.0,
+                "noael": 0.0,
+                "loael": 0.0,
+                "cmax": 0.0,
+                "auc": 0.0,
+                "clinical_signs": {
+                    "hepat": 0,
+                    "renal": 0,
+                    "cardiac": 0,
+                    "pulmonary": 0,
+                    "neuro": 0,
+                    "hemato": 0,
+                    "immune": 0
+                }
+            },
+            {
+                "type": "preclinical",
+                "species": "Rat",
+                "dose": 0.0,
+                "noael": 0.0,
+                "loael": 0.0,
+                "cmax": 0.0,
+                "auc": 0.0,
+                "clinical_signs": {
+                    "hepat": 0,
+                    "renal": 0,
+                    "cardiac": 0,
+                    "pulmonary": 0,
+                    "neuro": 0,
+                    "hemato": 0,
+                    "immune": 0
+                }
+            },
+            {
+                "type": "preclinical",
+                "species": "Rat",
+                "dose": 0.0,
+                "noael": 0.0,
+                "loael": 0.0,
+                "cmax": 0.0,
+                "auc": 0.0,
+                "clinical_signs": {
+                    "hepat": 0,
+                    "renal": 0,
+                    "cardiac": 0,
+                    "pulmonary": 0,
+                    "neuro": 0,
+                    "hemato": 0,
+                    "immune": 0
+                }
+            },
+            {
+                "type": "preclinical",
+                "species": "Dog",
+                "dose": 0.0,
+                "noael": 0.0,
+                "loael": 0.0,
+                "cmax": 0.0,
+                "auc": 0.0,
+                "clinical_signs": {
+                    "hepat": 0,
+                    "renal": 0,
+                    "cardiac": 0,
+                    "pulmonary": 0,
+                    "neuro": 0,
+                    "hemato": 0,
+                    "immune": 0
+                }
+            },
+            {
+                "type": "preclinical",
+                "species": "Dog",
+                "dose": 0.0,
+                "noael": 0.0,
+                "loael": 0.0,
+                "cmax": 0.0,
+                "auc": 0.0,
+                "clinical_signs": {
+                    "hepat": 0,
+                    "renal": 0,
+                    "cardiac": 0,
+                    "pulmonary": 0,
+                    "neuro": 0,
+                    "hemato": 0,
+                    "immune": 0
+                }
+            },
+            {
+                "type": "preclinical",
+                "species": "Monkey",
+                "dose": 0.0,
+                "noael": 0.0,
+                "loael": 0.0,
+                "cmax": 0.0,
+                "auc": 0.0,
+                "clinical_signs": {
+                    "hepat": 0,
+                    "renal": 0,
+                    "cardiac": 0,
+                    "pulmonary": 0,
+                    "neuro": 0,
+                    "hemato": 0,
+                    "immune": 0
+                }
+            }
+        ]
+    },
+    "Naltrexone": {
+        "observations": [
+            {
+                "type": "preclinical",
+                "species": "Dog",
+                "dose": 0.0,
+                "noael": 0.0,
+                "loael": 0.0,
+                "cmax": 0.0,
+                "auc": 0.0,
+                "clinical_signs": {
+                    "hepat": 0,
+                    "renal": 0,
+                    "cardiac": 0,
+                    "pulmonary": 0,
+                    "neuro": 0,
+                    "hemato": 0,
+                    "immune": 0
+                }
+            },
+            {
+                "type": "preclinical",
+                "species": "Dog",
+                "dose": 0.0,
+                "noael": 0.0,
+                "loael": 0.0,
+                "cmax": 0.0,
+                "auc": 0.0,
+                "clinical_signs": {
+                    "hepat": 0,
+                    "renal": 0,
+                    "cardiac": 0,
+                    "pulmonary": 0,
+                    "neuro": 0,
+                    "hemato": 0,
+                    "immune": 0
+                }
+            },
+            {
+                "type": "preclinical",
+                "species": "Rat",
+                "dose": 0.0,
+                "noael": 0.0,
+                "loael": 0.0,
+                "cmax": 0.0,
+                "auc": 0.0,
+                "clinical_signs": {
+                    "hepat": 0,
+                    "renal": 0,
+                    "cardiac": 0,
+                    "pulmonary": 0,
+                    "neuro": 0,
+                    "hemato": 0,
+                    "immune": 0
+                }
+            },
+            {
+                "type": "preclinical",
+                "species": "Rat",
+                "dose": 0.0,
+                "noael": 0.0,
+                "loael": 0.0,
+                "cmax": 0.0,
+                "auc": 0.0,
+                "clinical_signs": {
+                    "hepat": 0,
+                    "renal": 0,
+                    "cardiac": 0,
+                    "pulmonary": 0,
+                    "neuro": 0,
+                    "hemato": 0,
+                    "immune": 0
+                }
+            },
+            {
+                "type": "preclinical",
+                "species": "Rat",
+                "dose": 0.0,
+                "noael": 0.0,
+                "loael": 0.0,
+                "cmax": 0.0,
+                "auc": 0.0,
+                "clinical_signs": {
+                    "hepat": 0,
+                    "renal": 0,
+                    "cardiac": 0,
+                    "pulmonary": 0,
+                    "neuro": 0,
+                    "hemato": 0,
+                    "immune": 0
+                }
+            },
+            {
+                "type": "preclinical",
+                "species": "Dog",
+                "dose": 0.0,
+                "noael": 0.0,
+                "loael": 0.0,
+                "cmax": 0.0,
+                "auc": 0.0,
+                "clinical_signs": {
+                    "hepat": 0,
+                    "renal": 0,
+                    "cardiac": 0,
+                    "pulmonary": 0,
+                    "neuro": 0,
+                    "hemato": 0,
+                    "immune": 0
+                }
+            },
+            {
+                "type": "preclinical",
+                "species": "Rat",
+                "dose": 0.0,
+                "noael": 0.0,
+                "loael": 0.0,
+                "cmax": 0.0,
+                "auc": 0.0,
+                "clinical_signs": {
+                    "hepat": 0,
+                    "renal": 0,
+                    "cardiac": 0,
+                    "pulmonary": 0,
+                    "neuro": 0,
+                    "hemato": 0,
+                    "immune": 0
+                }
+            },
+            {
+                "type": "preclinical",
+                "species": "Dog",
+                "dose": 0.0,
+                "noael": 0.0,
+                "loael": 0.0,
+                "cmax": 0.0,
+                "auc": 0.0,
+                "clinical_signs": {
+                    "hepat": 0,
+                    "renal": 0,
+                    "cardiac": 0,
+                    "pulmonary": 0,
+                    "neuro": 0,
+                    "hemato": 0,
+                    "immune": 0
+                }
+            }
+        ]
+    },
+    "Tramadol": {
+        "observations": [
+            {
+                "type": "preclinical",
+                "species": "Dog",
+                "dose": 0.0,
+                "noael": 0.0,
+                "loael": 0.0,
+                "cmax": 0.0,
+                "auc": 0.0,
+                "clinical_signs": {
+                    "hepat": 0,
+                    "renal": 0,
+                    "cardiac": 0,
+                    "pulmonary": 0,
+                    "neuro": 0,
+                    "hemato": 0,
+                    "immune": 0
+                }
+            },
+            {
+                "type": "preclinical",
+                "species": "Dog",
+                "dose": 0.0,
+                "noael": 0.0,
+                "loael": 0.0,
+                "cmax": 0.0,
+                "auc": 0.0,
+                "clinical_signs": {
+                    "hepat": 0,
+                    "renal": 0,
+                    "cardiac": 0,
+                    "pulmonary": 0,
+                    "neuro": 0,
+                    "hemato": 0,
+                    "immune": 0
+                }
+            },
+            {
+                "type": "preclinical",
+                "species": "Rat",
+                "dose": 0.0,
+                "noael": 0.0,
+                "loael": 0.0,
+                "cmax": 0.0,
+                "auc": 0.0,
+                "clinical_signs": {
+                    "hepat": 0,
+                    "renal": 0,
+                    "cardiac": 0,
+                    "pulmonary": 0,
+                    "neuro": 0,
+                    "hemato": 0,
+                    "immune": 0
+                }
+            },
+            {
+                "type": "preclinical",
+                "species": "Rat",
+                "dose": 0.0,
+                "noael": 0.0,
+                "loael": 0.0,
+                "cmax": 0.0,
+                "auc": 0.0,
+                "clinical_signs": {
+                    "hepat": 0,
+                    "renal": 0,
+                    "cardiac": 0,
+                    "pulmonary": 0,
+                    "neuro": 0,
+                    "hemato": 0,
+                    "immune": 0
+                }
+            },
+            {
+                "type": "preclinical",
+                "species": "Rat",
+                "dose": 0.0,
+                "noael": 0.0,
+                "loael": 0.0,
+                "cmax": 0.0,
+                "auc": 0.0,
+                "clinical_signs": {
+                    "hepat": 0,
+                    "renal": 0,
+                    "cardiac": 0,
+                    "pulmonary": 0,
+                    "neuro": 0,
+                    "hemato": 0,
+                    "immune": 0
+                }
+            },
+            {
+                "type": "preclinical",
+                "species": "Dog",
+                "dose": 0.0,
+                "noael": 0.0,
+                "loael": 0.0,
+                "cmax": 0.0,
+                "auc": 0.0,
+                "clinical_signs": {
+                    "hepat": 0,
+                    "renal": 0,
+                    "cardiac": 0,
+                    "pulmonary": 0,
+                    "neuro": 0,
+                    "hemato": 0,
+                    "immune": 0
+                }
+            },
+            {
+                "type": "preclinical",
+                "species": "Rat",
+                "dose": 0.0,
+                "noael": 0.0,
+                "loael": 0.0,
+                "cmax": 0.0,
+                "auc": 0.0,
+                "clinical_signs": {
+                    "hepat": 0,
+                    "renal": 0,
+                    "cardiac": 0,
+                    "pulmonary": 0,
+                    "neuro": 0,
+                    "hemato": 0,
+                    "immune": 0
+                }
+            },
+            {
+                "type": "preclinical",
+                "species": "Dog",
+                "dose": 0.0,
+                "noael": 0.0,
+                "loael": 0.0,
+                "cmax": 0.0,
+                "auc": 0.0,
+                "clinical_signs": {
+                    "hepat": 0,
+                    "renal": 0,
+                    "cardiac": 0,
+                    "pulmonary": 0,
+                    "neuro": 0,
+                    "hemato": 0,
+                    "immune": 0
+                }
+            }
+        ]
+    },
+    "Belinostat": {
+        "observations": []
+    }
+}

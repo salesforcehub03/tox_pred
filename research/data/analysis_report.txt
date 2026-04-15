@@ -1,0 +1,69 @@
+Completed: 17/17
+
+Overall Organ Accuracy: 56.5/85 = 66.5%
+  Liver     : 76%
+  Lung      : 53%
+  Kidney    : 82%
+  Heart     : 74%
+  Brain     : 47%
+
+Average AE Overlap: 11.5%
+
+Drug                            Organ%    AE%  Conc%
+-------------------------------------------------------
+  Belinostat                     90.0%  20.0%    16%
+  Vorinostat                     90.0%  36.4%    50%
+  Haloperidol                    80.0%   0.0%    60%
+  Haloperidol Decanoate          80.0%  12.5%    33%
+  Prucalopride                   80.0%  33.3%    50%
+  Esketamine                     70.0%  10.0%    25%
+  Galantamine Hydrobromide       70.0%   0.0%    33%
+  Citalopram Hydrobromide        60.0%  10.0%   100%
+  Flunarizine                    60.0%   0.0%    66%
+  Methylphenidate Hydrochlorid   60.0%   9.1%   100%
+  Naltrexone Hydrochloride       60.0%  20.0%    50%
+  Paliperidone                   60.0%  22.2%    50%
+  Risperidone                    60.0%  10.0%    80%
+  Topiramate                     60.0%   0.0%    66%
+  Tramadol Hydrochloride         60.0%   0.0%    75%
+  Paliperidone Palmitate         50.0%  12.5%    20%
+  Fentanyl                       40.0%   0.0%    71%
+
+CRITICAL MISSES (off by 2+ levels):
+  Citalopram Hydrobromide      heart      Expected: High       Got: Low (18%)
+  Fentanyl                     lung       Expected: High       Got: Low (0%)
+  Fentanyl                     brain      Expected: High       Got: Low (0%)
+  Flunarizine                  brain      Expected: High       Got: Low (0%)
+  Galantamine Hydrobromide     lung       Expected: None       Got: Moderate (55%)
+  Naltrexone Hydrochloride     liver      Expected: High       Got: Low (8%)
+  Risperidone                  brain      Expected: High       Got: Low (0%)
+  Topiramate                   brain      Expected: High       Got: Low (33%)
+  Tramadol Hydrochloride       brain      Expected: High       Got: Low (0%)
+Total critical misses: 9
+
+MISS PATTERN ANALYSIS:
+  Brain: 5 misses
+  Lung: 2 misses
+  Heart: 1 misses
+  Liver: 1 misses
+  Under-prediction: 8
+  Over-prediction: 1
+
+DEEPCHEM STATUS:
+  Citalopram Hydrobromide        TRUE AI
+  Esketamine                     TRUE AI
+  Fentanyl                       TRUE AI
+  Flunarizine                    TRUE AI
+  Galantamine Hydrobromide       TRUE AI
+  Haloperidol                    TRUE AI
+  Haloperidol Decanoate          TRUE AI
+  Methylphenidate Hydrochlorid   TRUE AI
+  Naltrexone Hydrochloride       TRUE AI
+  Paliperidone                   TRUE AI
+  Paliperidone Palmitate         TRUE AI
+  Prucalopride                   TRUE AI
+  Risperidone                    TRUE AI
+  Topiramate                     TRUE AI
+  Tramadol Hydrochloride         TRUE AI
+  Belinostat                     TRUE AI
+  Vorinostat                     TRUE AI

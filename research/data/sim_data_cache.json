@@ -1,0 +1,126 @@
+{
+    "STUDY METADATA": {
+        "source": [
+            "Belinostat_extracted_data.xlsx"
+        ]
+    },
+    "Sponsor Information": {
+        "source": [
+            "Belinostat_extracted_data.xlsx"
+        ]
+    },
+    "Participating Countries": {
+        "source": [
+            "Belinostat_extracted_data.xlsx"
+        ]
+    },
+    "Edition Number": {
+        "source": [
+            "Belinostat_extracted_data.xlsx"
+        ]
+    },
+    "Date Issued": {
+        "source": [
+            "Belinostat_extracted_data.xlsx"
+        ]
+    },
+    "Supersedes Version": {
+        "source": [
+            "Belinostat_extracted_data.xlsx"
+        ]
+    },
+    "Marketing Experience": {
+        "source": [
+            "Belinostat_extracted_data.xlsx"
+        ]
+    },
+    "ELIGIBILITY": {
+        "source": [
+            "Belinostat_extracted_data.xlsx"
+        ]
+    },
+    "ANC (Absolute Neutrophil Count)": {
+        "source": [
+            "Belinostat_extracted_data.xlsx"
+        ]
+    },
+    "Platelet Count": {
+        "source": [
+            "Belinostat_extracted_data.xlsx"
+        ]
+    },
+    "Creatinine Clearance": {
+        "source": [
+            "Belinostat_extracted_data.xlsx"
+        ]
+    },
+    "Total Bilirubin": {
+        "source": [
+            "Belinostat_extracted_data.xlsx"
+        ]
+    },
+    "ALT/AST": {
+        "source": [
+            "Belinostat_extracted_data.xlsx"
+        ]
+    },
+    "DOSE MODIFICATION THRESHOLDS": {
+        "source": [
+            "Belinostat_extracted_data.xlsx"
+        ]
+    },
+    "Platelet nadir for dose reduction": {
+        "source": [
+            "Belinostat_extracted_data.xlsx"
+        ]
+    },
+    "ANC nadir for dose reduction": {
+        "source": [
+            "Belinostat_extracted_data.xlsx"
+        ]
+    },
+    "Haloperidol": {
+        "source": [
+            "clinical_data.xlsx",
+            "clinical_data.xlsx"
+        ],
+        "ke": NaN
+    },
+    "Droperidol": {
+        "source": [
+            "clinical_data.xlsx",
+            "clinical_data.xlsx"
+        ]
+    },
+    "Risperidone": {
+        "source": [
+            "clinical_data.xlsx",
+            "clinical_data.xlsx"
+        ]
+    },
+    "Citalopram": {
+        "source": [
+            "preclinical_data.xlsx",
+            "preclinical_data.xlsx",
+            "preclinical_data.xlsx",
+            "preclinical_data.xlsx"
+        ]
+    },
+    "Escitalopram": {
+        "source": [
+            "preclinical_data.xlsx",
+            "preclinical_data.xlsx",
+            "preclinical_data.xlsx",
+            "preclinical_data.xlsx"
+        ]
+    },
+    "Sertraline": {
+        "source": [
+            "preclinical_data.xlsx",
+            "preclinical_data.xlsx",
+            "preclinical_data.xlsx",
+            "preclinical_data.xlsx",
+            "preclinical_data.xlsx"
+        ]
+    }
+}
