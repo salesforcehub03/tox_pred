@@ -13,6 +13,19 @@ import json
 from pathlib import Path
 from typing import List, Optional
 
+# --- GLOBAL MONKEY PATCH FOR OS.MAKEDIRS ---
+# This fixes the "FileNotFoundError: [Errno 2] No such file or directory: ''" bug 
+# in the uneditable research/src/tox_data_engine.py file.
+import os as _real_os
+_orig_makedirs = _real_os.makedirs
+def _safe_makedirs(name, mode=0o777, exist_ok=False):
+    if not name or name == '':
+        print("[!] Intercepted invalid makedirs('') call. Ignoring.")
+        return
+    return _orig_makedirs(name, mode, exist_ok)
+_real_os.makedirs = _safe_makedirs
+# ------------------------------------------
+
 # Setup paths for reorganized structure
 ROOT_DIR = os.path.abspath(os.path.join(os.path.dirname(__file__), ".."))
 # Add research root and src folder to sys.path
@@ -43,23 +56,42 @@ def patched_init(self, data_dir=None, cache_path=None):
         "immune": ["hypersensitivity", "anaphyla", "stevens-johnson", "dermatitis", "rash"]
     }
 
-def patched_ingest_all(self):
+def patched_ingest_all(self, force_refresh=False):
     print(f"[*] Patched Ingestion starting from: {self.data_dir}")
-    # Mini-implementation of ingestion to handle path issues
-    os.makedirs(os.path.dirname(self.cache_path), exist_ok=True)
-    # Actually we just want to ensure it doesn't crash
-    # The original ingest_all uses os.path.join(self.data_dir, ...) so it should be fine now
-    # But let's just use the original method and catch the makedirs error if it still happens
+    # Fix: Ensure we never pass '' to os.makedirs
+    cache_dir = os.path.dirname(self.cache_path)
+    if cache_dir:
+        os.makedirs(cache_dir, exist_ok=True)
+    else:
+        # Fallback to current directory if dirname is empty
+        os.makedirs(".", exist_ok=True)
+    
+    # Now call the original if possible, or just re-implement the save
+    # Actually, the original has the bug, so we should avoid calling it.
+    # But since we can't easily access the original without infinite recursion
+    # we'll just implement the fix here if the original is called.
+    # The best way is to monkey patch os.makedirs globally during this call!
+    import os as _os
+    orig_makedirs = _os.makedirs
+    def safe_makedirs(name, mode=0o777, exist_ok=False):
+        if name == '': return
+        return orig_makedirs(name, mode, exist_ok)
+    
+    _os.makedirs = safe_makedirs
     try:
-        # We need to call the original but with the fixed paths
-        # Since we patched __init__, self.data_dir and self.cache_path are now correct
-        # We just need to fix the specific line in ingest_all that crashes
+        # Now we can safely call the original if we had a reference
+        # But we don't have a reference to the original method easily.
+        # Let's just bypass the problematic call by patching the engine method directly with a safer version.
         pass
-    except Exception as e:
-        print(f"[!] Ingestion error: {e}")
+    finally:
+        _os.makedirs = orig_makedirs
+
+# Actually, the simplest fix is to patch ToxDataEngine.ingest_all to be safe.
+# We'll do that below.
 
 # Apply patches
 src.tox_data_engine.ToxDataEngine.__init__ = patched_init
+# We don't need patched_ingest_all anymore because the global os.makedirs fix handles it!
 
 from src.toxicity_predictor import ToxicityPredictor
 # --- END MONKEY PATCH ---
