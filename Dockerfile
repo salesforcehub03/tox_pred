@@ -14,8 +14,8 @@ RUN apt-get update && apt-get install -y \
 WORKDIR /app
 
 # Install Python requirements
-COPY research/requirements.txt .
-RUN pip install --no-cache-dir -r requirements.txt
+COPY research/requirements_render.txt .
+RUN pip install --no-cache-dir -r requirements_render.txt
 
 # Install Node.js for the frontend build
 RUN curl -fsSL https://deb.nodesource.com/setup_18.x | bash - \

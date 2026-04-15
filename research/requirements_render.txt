@@ -1,0 +1,14 @@
+rdkit
+biopython
+requests
+pandas
+tabulate
+deepchem
+tensorflow-cpu
+streamlit
+plotly
+openai
+python-dotenv
+fastapi
+uvicorn
+python-multipart
