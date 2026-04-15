@@ -12,4 +12,5 @@ python-dotenv
 fastapi
 uvicorn
 python-multipart
-sentence_transformers
+sentence-transformers
+openpyxl

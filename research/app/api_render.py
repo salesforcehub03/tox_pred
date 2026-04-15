@@ -113,9 +113,16 @@ _predictor = None
 def get_predictor():
     global _predictor
     if _predictor is None:
-        print("[*] Lazy-loading ToxicityPredictor (this may take a few minutes)...")
-        _predictor = ToxicityPredictor()
-        print("[*] ToxicityPredictor loaded successfully.")
+        try:
+            print("[*] Lazy-loading ToxicityPredictor (this may take a few minutes)...")
+            _predictor = ToxicityPredictor()
+            print("[*] ToxicityPredictor loaded successfully.")
+        except Exception as e:
+            print(f"[!] CRITICAL ERROR: Failed to load ToxicityPredictor: {e}")
+            import traceback
+            traceback.print_exc()
+            # Return a mock or raise for the endpoint to handle
+            raise e
     return _predictor
 
 @app.get("/api/health")
