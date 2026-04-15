@@ -5,8 +5,6 @@ services:
     plan: starter
     region: oregon
     envVars:
-      - key: PORT
-        value: 8125
       - key: AZURE_OPENAI_API_KEY
         sync: false
       - key: AZURE_OPENAI_ENDPOINT

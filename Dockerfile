@@ -28,9 +28,13 @@ COPY . .
 WORKDIR /app/research-frontend
 RUN npm install && npm run build
 
+# Pre-ingest data to bake the cache into the image
+WORKDIR /app
+RUN python research/pre_ingest.py
+
 # Final stage setup
 WORKDIR /app
-EXPOSE 8125
+EXPOSE 10000
 
 # Command to run the FastAPI app (which now serves the built frontend)
 CMD ["python", "research/app/api_render.py"]

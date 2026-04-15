@@ -75,8 +75,16 @@ app.add_middleware(
     allow_headers=["*"],
 )
 
-# Initialize the Toxicity Predictor once
-predictor = ToxicityPredictor()
+# Global holder for the lazy-loaded predictor
+_predictor = None
+
+def get_predictor():
+    global _predictor
+    if _predictor is None:
+        print("[*] Lazy-loading ToxicityPredictor (this may take a few minutes)...")
+        _predictor = ToxicityPredictor()
+        print("[*] ToxicityPredictor loaded successfully.")
+    return _predictor
 
 @app.get("/api/health")
 async def health():
@@ -95,6 +103,7 @@ async def analyze(payload: dict = Body(...)):
         raise HTTPException(status_code=400, detail="No input provided")
 
     try:
+        predictor = get_predictor()
         result = predictor.run_workflow(input_str)
         
         # Post-process to ensure all organ keys exist for the UI
@@ -135,6 +144,7 @@ async def analyze(payload: dict = Body(...)):
 async def get_svg(smiles: str):
     """Returns the SVG string for a given SMILES."""
     try:
+        predictor = get_predictor()
         svg = predictor.generate_mol_svg(smiles)
         return {"svg": svg}
     except Exception as e:
