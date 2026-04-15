@@ -1,4 +1,5 @@
 from fastapi import FastAPI, HTTPException, Body
+# Test comment
 from fastapi.middleware.cors import CORSMiddleware
 from fastapi.staticfiles import StaticFiles
 from fastapi.responses import FileResponse
@@ -19,7 +20,49 @@ for path in [ROOT_DIR, os.path.join(ROOT_DIR, "src"), os.path.join(ROOT_DIR, "da
     if path not in sys.path:
         sys.path.append(path)
 
+# --- MONKEY PATCH TO FIX PATHS ON RENDER ---
+import src.tox_data_engine
+import json
+
+def patched_init(self, data_dir=None, cache_path=None):
+    base_dir = os.path.abspath(os.path.join(os.path.dirname(src.tox_data_engine.__file__), "..", ".."))
+    if data_dir is None:
+        data_dir = os.path.join(base_dir, "kg_data")
+    if cache_path is None:
+        cache_path = os.path.join(base_dir, "research", "data", "tox_feature_store.json")
+    self.data_dir = data_dir
+    self.cache_path = cache_path
+    self.feature_store = {}
+    self.ae_families = {
+        "hepat": ["liver", "hepat", "jaundice", "transaminase", "alt", "ast", "bilirubin", "cholestasis", "dili"],
+        "renal": ["kidney", "renal", "nephro", "creatinine", "proteinuria", "oliguria", "anuria"],
+        "cardiac": ["cardiac", "heart", "qt", "qrs", "arrhythm", "torsade", "myocardial"],
+        "pulmonary": ["lung", "pulmonary", "pneumon", "dyspnoea", "respiratory", "bronch", "fibrosis"],
+        "neuro": ["neuro", "seizure", "convulsion", "neuropathy", "tremor", "ataxia", "dizziness"],
+        "hemato": ["anaemia", "thrombocytopenia", "neutropenia", "agranulocytosis"],
+        "immune": ["hypersensitivity", "anaphyla", "stevens-johnson", "dermatitis", "rash"]
+    }
+
+def patched_ingest_all(self):
+    print(f"[*] Patched Ingestion starting from: {self.data_dir}")
+    # Mini-implementation of ingestion to handle path issues
+    os.makedirs(os.path.dirname(self.cache_path), exist_ok=True)
+    # Actually we just want to ensure it doesn't crash
+    # The original ingest_all uses os.path.join(self.data_dir, ...) so it should be fine now
+    # But let's just use the original method and catch the makedirs error if it still happens
+    try:
+        # We need to call the original but with the fixed paths
+        # Since we patched __init__, self.data_dir and self.cache_path are now correct
+        # We just need to fix the specific line in ingest_all that crashes
+        pass
+    except Exception as e:
+        print(f"[!] Ingestion error: {e}")
+
+# Apply patches
+src.tox_data_engine.ToxDataEngine.__init__ = patched_init
+
 from src.toxicity_predictor import ToxicityPredictor
+# --- END MONKEY PATCH ---
 
 app = FastAPI(title="AViiD Toxicity API", version="3.0.0")
 

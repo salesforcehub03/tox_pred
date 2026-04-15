@@ -2,17 +2,21 @@ services:
   - type: web
     name: tox-pred-platform
     env: docker
-    plan: free # or your preferred plan
-    region: oregon # or your preferred region
+    plan: starter
+    region: oregon
     envVars:
-      - key: OPENAI_API_KEY
-        sync: false # Set this in Render Dashboard
-      - key: OPENAI_API_BASE
+      - key: PORT
+        value: 8125
+      - key: AZURE_OPENAI_API_KEY
         sync: false
-      - key: OPENAI_API_VERSION
+      - key: AZURE_OPENAI_ENDPOINT
+        sync: false
+      - key: AZURE_OPENAI_DEPLOYMENT_NAME
+        sync: false
+      - key: AZURE_OPENAI_API_VERSION
         value: 2024-02-15-preview
-      - key: OPENAI_API_TYPE
-        value: azure
       - key: PROTOCOL_BUFFERS_PYTHON_IMPLEMENTATION
         value: python
+      - key: PYTHONUNBUFFERED
+        value: "1"
     healthCheckPath: /api/health
