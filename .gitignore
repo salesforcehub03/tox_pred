@@ -11,7 +11,7 @@ logs/
 # Node
 node_modules/
 .vite/
-dist/
+# dist/  <-- Commented out to allow pushing locally built frontend for faster Render deploy
 dist-ssr/
 *.local
 
